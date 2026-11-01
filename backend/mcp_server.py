@@ -1,4 +1,5 @@
 import os
+import rag
 from mcp.server.fastmcp import FastMCP
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
@@ -19,6 +20,12 @@ def search_docs(query: str) -> str:
             scored.append((score, name))
     scored.sort(reverse=True)
     return ", ".join(name for _, name in scored) if scored else "No matching documents."
+
+
+@mcp.tool()
+def search(query: str) -> str:
+    """Semantic search: return the most relevant document chunks for a query."""
+    return rag.search(query)
 
 
 @mcp.tool()

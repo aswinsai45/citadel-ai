@@ -11,27 +11,25 @@ from mcp.client.stdio import stdio_client
 OLLAMA_URL = "http://localhost:11434/api/chat"
 MODEL = "llama3.2:3b"
 
-ARG_NAME = {"search_docs": "query", "read_file": "name"}
+ARG_NAME = {"search": "query", "search_docs": "query", "read_file": "name"}
 
 SYSTEM = """You are an agent that answers questions using internal documents.
 
 Available tools:
-- search_docs(query): returns filenames that contain the query text
+- search(query): semantic search, returns the most relevant document chunks
 - read_file(name): returns the full text of a document by filename
 
 Reply with ONLY a JSON object, nothing else.
-To use a tool: {"tool": "search_docs", "input": "pump maintenance"}
+To use a tool: {"tool": "search", "input": "pump lubricant"}
 To answer the user: {"answer": "your final answer"}
 
-Always ground answers in the documents. First search, then read the relevant
-file, then answer using what you read.
+Always ground answers in the documents. Search first, then answer using the
+chunks returned.
 
 Example:
 User: What oil does the pump use?
-You: {"tool": "search_docs", "input": "pump oil"}
-User: Tool result: pump_manual.txt
-You: {"tool": "read_file", "input": "pump_manual.txt"}
-User: Tool result: ...Use ISO VG 68 oil...
+You: {"tool": "search", "input": "pump lubricant oil"}
+User: Tool result: [pump_manual.txt] ...Use ISO VG 68 oil...
 You: {"answer": "The pump uses ISO VG 68 oil."}
 """
 
