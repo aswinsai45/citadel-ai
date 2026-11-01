@@ -9,8 +9,19 @@ services:
       - "6379:6379"
     volumes:
       - redis-data:/data
-    restart: unless-stopped # auto-restart if it crashes
+    restart: unless-stopped
+
+  # ----- Ollama: the brain (runs the open-weight LLM locally) -----
+  ollama:
+    image: ollama/ollama:latest
+    container_name: citadel-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+    restart: unless-stopped
 
 # Named volumes = folders Docker manages on your disk so data survives restarts.
 volumes:
   redis-data:
+  ollama-data:
