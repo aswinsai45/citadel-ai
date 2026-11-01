@@ -1,0 +1,19 @@
+STANDARD OPERATING PROCEDURE — HOT WORK SAFETY (INTERNAL / CONFIDENTIAL)
+SOP-HW-014
+
+1. PERMIT
+   - A hot work permit is mandatory before any welding, grinding, or cutting.
+   - Permit valid for a maximum of 8 hours per shift.
+
+2. PRECAUTIONS
+   - Keep a 10 meter clearance of flammable material around the work area.
+   - A trained fire watch must be present during work and for 30 minutes after.
+   - Minimum one 9 kg DCP fire extinguisher at the work site.
+
+3. GAS TESTING
+   - Test atmosphere for flammable gas before starting.
+   - LEL must read below 5 percent to proceed.
+
+4. EMERGENCY
+   - Stop work immediately if LEL exceeds 10 percent.
+   - Evacuate and inform the shift supervisor and control room.

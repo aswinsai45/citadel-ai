@@ -1,0 +1,21 @@
+CENTRIFUGAL PUMP — MODEL CP-200
+OPERATIONS & MAINTENANCE MANUAL (INTERNAL / CONFIDENTIAL)
+
+1. LUBRICATION
+   - Bearing lubrication: Use ISO VG 68 mineral oil.
+   - Oil change interval: every 4000 operating hours or 6 months.
+   - Oil level must stay between the MIN and MAX marks on the sight glass.
+
+2. OPERATING LIMITS
+   - Max discharge pressure: 16 bar
+   - Max fluid temperature: 120 C
+   - Rated flow: 200 m3/h at 2950 rpm
+
+3. STARTUP CHECKLIST
+   - Confirm suction valve fully open.
+   - Prime the casing; do not run dry.
+   - Verify rotation direction matches arrow on casing.
+
+4. COMMON FAULTS
+   - Excessive vibration: check coupling alignment and bearing wear.
+   - Overheating: check oil level and cooling water flow.
