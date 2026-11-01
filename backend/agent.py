@@ -1,34 +1,13 @@
+import asyncio
 import json
-import os
 import requests
-
-DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
+from mcp import ClientSession, StdioServerParameters
+from mcp.client.stdio import stdio_client
 
 OLLAMA_URL = "http://localhost:11434/api/chat"
 MODEL = "llama3.2:3b"
 
-
-def search_docs(query: str) -> str:
-    words = query.lower().split()
-    scored = []
-    for name in os.listdir(DATA_DIR):
-        path = os.path.join(DATA_DIR, name)
-        with open(path, encoding="utf-8") as f:
-            text = f.read().lower()
-        score = sum(1 for w in words if w in text)
-        if score:
-            scored.append((score, name))
-    scored.sort(reverse=True)
-    return ", ".join(name for _, name in scored) if scored else "No matching documents."
-
-
-def read_file(name: str) -> str:
-    path = os.path.join(DATA_DIR, name)
-    with open(path, encoding="utf-8") as f:
-        return f.read()
-
-
-TOOLS = {"search_docs": search_docs, "read_file": read_file}
+ARG_NAME = {"search_docs": "query", "read_file": "name"}
 
 SYSTEM = """You are an agent that answers questions using internal documents.
 
@@ -67,29 +46,35 @@ def chat(messages: list) -> str:
     return response.json()["message"]["content"]
 
 
-def run(question: str) -> str:
-    messages = [
-        {"role": "system", "content": SYSTEM},
-        {"role": "user", "content": question},
-    ]
+async def run(question: str) -> str:
+    params = StdioServerParameters(command="python", args=["mcp_server.py"])
+    async with stdio_client(params) as (read, write):
+        async with ClientSession(read, write) as session:
+            await session.initialize()
 
-    for _ in range(8):
-        reply = chat(messages)
-        messages.append({"role": "assistant", "content": reply})
+            messages = [
+                {"role": "system", "content": SYSTEM},
+                {"role": "user", "content": question},
+            ]
 
-        step = json.loads(reply)
+            for _ in range(8):
+                reply = chat(messages)
+                messages.append({"role": "assistant", "content": reply})
 
-        if "answer" in step:
-            return step["answer"]
+                step = json.loads(reply)
+                if "answer" in step:
+                    return step["answer"]
 
-        tool = TOOLS[step["tool"]]
-        result = tool(step["input"])
-        print(f"[tool] {step['tool']}({step['input']}) = {result}")
+                name = step["tool"]
+                args = {ARG_NAME[name]: step["input"]}
+                result = await session.call_tool(name, args)
+                text = result.content[0].text
+                print(f"[mcp] {name}({step['input']}) -> {text[:60]}...")
 
-        messages.append({"role": "user", "content": f"Tool result: {result}"})
+                messages.append({"role": "user", "content": f"Tool result: {text}"})
 
-    return "Gave up after too many steps."
+            return "Gave up after too many steps."
 
 
 if __name__ == "__main__":
-    print(run("What oil does the pump use?"))
+    print(asyncio.run(run("What oil does the pump use?")))
