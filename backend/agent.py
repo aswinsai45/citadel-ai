@@ -1,6 +1,10 @@
 import asyncio
+import hashlib
 import json
 import requests
+import redis
+
+cache = redis.Redis(host="localhost", port=6379, decode_responses=True)
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 
@@ -33,6 +37,12 @@ You: {"answer": "The pump uses ISO VG 68 oil."}
 
 
 def chat(messages: list) -> str:
+    key = "llm:" + hashlib.sha256(json.dumps(messages).encode()).hexdigest()
+    cached = cache.get(key)
+    if cached is not None:
+        print("[cache] hit")
+        return cached
+
     response = requests.post(
         OLLAMA_URL,
         json={
@@ -43,7 +53,9 @@ def chat(messages: list) -> str:
         },
     )
     response.raise_for_status()
-    return response.json()["message"]["content"]
+    reply = response.json()["message"]["content"]
+    cache.set(key, reply)
+    return reply
 
 
 async def run(question: str) -> str:
