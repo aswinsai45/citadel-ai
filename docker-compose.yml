@@ -1,0 +1,16 @@
+# docker-compose.yml
+
+services:
+  # ----- Redis: fast in-memory notepad (cache + agent memory) -----
+  redis:
+    image: redis:7-alpine
+    container_name: citadel-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    restart: unless-stopped # auto-restart if it crashes
+
+# Named volumes = folders Docker manages on your disk so data survives restarts.
+volumes:
+  redis-data:
