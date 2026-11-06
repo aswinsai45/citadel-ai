@@ -1,18 +1,28 @@
 import os
 import math
+import json
+import hashlib
 import requests
+import redis
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 EMBED_URL = "http://localhost:11434/api/embeddings"
 EMBED_MODEL = "nomic-embed-text"
 
+cache = redis.Redis(host="localhost", port=6379, decode_responses=True)
 _index = []  # list of (source, chunk_text, vector)
 
 
 def embed(text: str) -> list:
+    key = "emb:" + hashlib.sha256(text.encode()).hexdigest()
+    hit = cache.get(key)
+    if hit is not None:
+        return json.loads(hit)
     r = requests.post(EMBED_URL, json={"model": EMBED_MODEL, "prompt": text})
     r.raise_for_status()
-    return r.json()["embedding"]
+    vec = r.json()["embedding"]
+    cache.set(key, json.dumps(vec))
+    return vec
 
 
 def chunk(text: str) -> list:
