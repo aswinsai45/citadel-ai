@@ -67,7 +67,7 @@ async def run(question: str) -> str:
                 {"role": "user", "content": question},
             ]
 
-            for _ in range(8):
+            for _ in range(5):
                 reply = chat(messages)
                 messages.append({"role": "assistant", "content": reply})
 

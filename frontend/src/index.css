@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --color-ink: #e8eaed;
+  --color-ink-dim: #8a9099;
+  --color-ink-faint: #565c63;
+  --color-ground: #0a0b0d;
+  --color-panel: #0e1013;
+  --color-line: #1e2227;
+  --color-line-bright: #2b3037;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-ground);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "cv05", "ss01";
+}
+
+/* ---- Signature: engineering dot-grid field ---- */
+.dotfield {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.055) 1px, transparent 1px);
+  background-size: 22px 22px;
+  background-position: -1px -1px;
+}
+
+/* ---- Panel with corner registration crosshairs ---- */
+.crosshairs {
+  position: relative;
+}
+.crosshairs::before,
+.crosshairs::after {
+  content: "";
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  pointer-events: none;
+  opacity: 0.5;
+}
+.crosshairs::before {
+  top: 8px;
+  left: 8px;
+  border-top: 1px solid var(--color-line-bright);
+  border-left: 1px solid var(--color-line-bright);
+}
+.crosshairs::after {
+  bottom: 8px;
+  right: 8px;
+  border-bottom: 1px solid var(--color-line-bright);
+  border-right: 1px solid var(--color-line-bright);
+}
+
+/* ---- Mono metadata labels ---- */
+.label {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+}
+
+/* ---- Status pulse ---- */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.25; }
+}
+.live-dot {
+  animation: blink 2.4s steps(1, end) infinite;
+}
+
+/* ---- Thinking scan ---- */
+@keyframes scan {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(400%); }
+}
+.scanner {
+  animation: scan 1.4s linear infinite;
+}
+
+/* ---- Browser surfaces ---- */
+::selection {
+  background: var(--color-ink);
+  color: var(--color-ground);
+}
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-line-bright);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3a4047;
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line-bright) transparent;
+}
+:focus-visible {
+  outline: 1px solid var(--color-ink);
+  outline-offset: 1px;
+}
+input::placeholder {
+  color: var(--color-ink-faint);
+}

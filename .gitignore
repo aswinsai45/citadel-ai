@@ -18,6 +18,15 @@ build/
 *.safetensors
 models/
 
+# ---- Agent harness / skill engines (binaries, not project code) ----
+.agent/
+.agents/
+.claude/
+.codex/
+.gemini/
+.pi/
+.impeccable/
+
 # ---- OS / editor junk ----
 .DS_Store
 .idea/
