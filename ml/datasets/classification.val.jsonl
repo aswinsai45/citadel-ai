@@ -1,0 +1,345 @@
+{"text": "Please confirm: What is the nominal capacity of the storage tank?", "label": "specifications"}
+{"text": "Quick question: What is the shell material of tank TK-900?", "label": "specifications"}
+{"text": "Describe the control signal for valve CV-42.", "label": "instrumentation"}
+{"text": "Quick question: Give the casing material for pump CP-200.", "label": "specifications"}
+{"text": "Can you tell me, What is the air filter replacement for compressor AC-110?", "label": "maintenance_schedule"}
+{"text": "Tell me the oil separator change of the AC-110.", "label": "lubrication"}
+{"text": "Why is the heat exchanger having trouble?", "label": "troubleshooting"}
+{"text": "Please confirm: What is the rated flow of the centrifugal pump?", "label": "operating_limits"}
+{"text": "Please confirm: What environmental control applies to the tank?", "label": "environmental"}
+{"text": "I need to know, How often is positioner calibration required for the CV-42?", "label": "maintenance_schedule"}
+{"text": "I need to know, When should the compressor get its oil filter replacement?", "label": "maintenance_schedule"}
+{"text": "What is the nominal capacity of the storage tank?", "label": "specifications"}
+{"text": "I need to know, Give the maintenance interval for the air compressor.", "label": "maintenance_schedule"}
+{"text": "Quick question: State the rated flow for pump CP-200.", "label": "operating_limits"}
+{"text": "I need to know, What is the impeller diameter of the pump?", "label": "specifications"}
+{"text": "Quick question: What is the rated flow of the centrifugal pump?", "label": "operating_limits"}
+{"text": "Can you tell me, How often is tube bundle cleaning required for the exchanger?", "label": "maintenance_schedule"}
+{"text": "I need to know, Tell me the oil separator change of the AC-110.", "label": "lubrication"}
+{"text": "Can you tell me, How high can the centrifugal pump run before it exceeds its rated flow?", "label": "operating_limits"}
+{"text": "Quick question: How often should the oil in the AC-110 be changed?", "label": "lubrication"}
+{"text": "What is the rated flow of pump CP-200?", "label": "operating_limits"}
+{"text": "I need to know, What is the cooling water discharge limit for the exchanger?", "label": "environmental"}
+{"text": "Can you tell me, What is the signal type of the control valve?", "label": "instrumentation"}
+{"text": "Please confirm: How is the TK-900 instrumented?", "label": "instrumentation"}
+{"text": "I need to know, What is the high-level alarm for the storage tank?", "label": "instrumentation"}
+{"text": "Quick question: When should the centrifugal pump get its bearing inspection?", "label": "maintenance_schedule"}
+{"text": "Please confirm: State the rated flow for the pump.", "label": "operating_limits"}
+{"text": "I need to know, What is the maximum working pressure of the compressor?", "label": "operating_limits"}
+{"text": "Quick question: Diagnose the cause of frequent load/unload cycling for the AC-110.", "label": "troubleshooting"}
+{"text": "Please confirm: Diagnose the cause of excessive vibration for the CP-200.", "label": "troubleshooting"}
+{"text": "Please confirm: When should the relief valve get its overhaul interval?", "label": "maintenance_schedule"}
+{"text": "What is the maximum design pressure of unit HX-305?", "label": "operating_limits"}
+{"text": "Can you tell me, What is the maximum discharge air temperature of the AC-110?", "label": "operating_limits"}
+{"text": "I need to know, What is the rated flow of pump CP-200?", "label": "operating_limits"}
+{"text": "Give the number of tubes for the HX-305.", "label": "specifications"}
+{"text": "Please confirm: What is the electrical rating of the compressor?", "label": "electrical"}
+{"text": "Can you tell me, How high can the air compressor run before it exceeds its maximum discharge air temperature?", "label": "operating_limits"}
+{"text": "Please confirm: What is the correct shutdown procedure for pump CP-200?", "label": "startup_shutdown"}
+{"text": "Can you tell me, What is the maximum working pressure of the compressor?", "label": "operating_limits"}
+{"text": "Please confirm: What is the air filter replacement for compressor AC-110?", "label": "maintenance_schedule"}
+{"text": "I need to know, What is the action if leaking below set pressure of the PRV-77?", "label": "safety"}
+{"text": "What is the action if leaking below set pressure of the PRV-77?", "label": "safety"}
+{"text": "Tell me the oil level requirement of pump CP-200.", "label": "lubrication"}
+{"text": "I need to know, Diagnose the cause of frequent load/unload cycling for the AC-110.", "label": "troubleshooting"}
+{"text": "I need to know, State the set pressure for the PRV-77.", "label": "safety"}
+{"text": "Can you tell me, Give the maintenance interval for compressor AC-110.", "label": "maintenance_schedule"}
+{"text": "I need to know, What is the maximum design pressure of unit HX-305?", "label": "operating_limits"}
+{"text": "I need to know, How often should the oil in the AC-110 be changed?", "label": "lubrication"}
+{"text": "Please confirm: What could cause cause of frequent load/unload cycling on the air compressor?", "label": "troubleshooting"}
+{"text": "Quick question: Give the body material for the safety valve.", "label": "specifications"}
+{"text": "Please confirm: How often is positioner calibration required for the CV-42?", "label": "maintenance_schedule"}
+{"text": "How often should the oil in the AC-110 be changed?", "label": "lubrication"}
+{"text": "Can you tell me, Give the number of tubes for the HX-305.", "label": "specifications"}
+{"text": "Can you tell me, Give the body material for valve PRV-77.", "label": "specifications"}
+{"text": "Quick question: Give the number of tubes for the HX-305.", "label": "specifications"}
+{"text": "I need to know, Give the maintenance interval for compressor AC-110.", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What safety limit governs the PRV-77?", "label": "safety"}
+{"text": "Quick question: Why is the heat exchanger having trouble?", "label": "troubleshooting"}
+{"text": "I need to know, How is the TK-900 instrumented?", "label": "instrumentation"}
+{"text": "I need to know, Tell me the motor rating for the AC-110.", "label": "electrical"}
+{"text": "Quick question: What is the overhaul interval for the safety valve?", "label": "maintenance_schedule"}
+{"text": "I need to know, List the start condition of the compressor.", "label": "startup_shutdown"}
+{"text": "What environmental control applies to the tank?", "label": "environmental"}
+{"text": "I need to know, How often is tube bundle cleaning required for the heat exchanger?", "label": "maintenance_schedule"}
+{"text": "Please confirm: What is the signal type of the control valve?", "label": "instrumentation"}
+{"text": "Please confirm: What is the shutdown step for the compressor?", "label": "startup_shutdown"}
+{"text": "Can you tell me, Give the impeller diameter for the pump.", "label": "specifications"}
+{"text": "What is the nominal capacity of the tank?", "label": "specifications"}
+{"text": "Please confirm: How often should the oil in the AC-110 be changed?", "label": "lubrication"}
+{"text": "Give the body material for the safety valve.", "label": "specifications"}
+{"text": "Please confirm: What is the signal type for valve CV-42?", "label": "instrumentation"}
+{"text": "Please confirm: Give the casing material for pump CP-200.", "label": "specifications"}
+{"text": "Can you tell me, When should the CV-42 get its positioner calibration?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What is the electrical rating of the compressor?", "label": "electrical"}
+{"text": "Quick question: Give the body material for valve PRV-77.", "label": "specifications"}
+{"text": "Please confirm: What is the maximum design pressure of unit HX-305?", "label": "operating_limits"}
+{"text": "Give the maintenance interval for pump CP-200.", "label": "maintenance_schedule"}
+{"text": "What should I do about test interval on the relief valve?", "label": "safety"}
+{"text": "Can you tell me, Tell me the oil separator change of the AC-110.", "label": "lubrication"}
+{"text": "Quick question: What is the electrical rating of the compressor?", "label": "electrical"}
+{"text": "Quick question: What should I do about test interval on the relief valve?", "label": "safety"}
+{"text": "State the rated flow for pump CP-200.", "label": "operating_limits"}
+{"text": "How often is tube bundle cleaning required for the heat exchanger?", "label": "maintenance_schedule"}
+{"text": "Please confirm: Give the impeller diameter for the pump.", "label": "specifications"}
+{"text": "Please confirm: What could cause cause of frequent load/unload cycling on the compressor?", "label": "troubleshooting"}
+{"text": "Quick question: What is the shutdown step for the compressor?", "label": "startup_shutdown"}
+{"text": "I need to know, Tell me the oil level requirement of pump CP-200.", "label": "lubrication"}
+{"text": "Quick question: What are the specs of the tank?", "label": "specifications"}
+{"text": "Quick question: What is the signal type of the control valve?", "label": "instrumentation"}
+{"text": "Please confirm: State the rated flow for pump CP-200.", "label": "operating_limits"}
+{"text": "Please confirm: How often is tube bundle cleaning required for the exchanger?", "label": "maintenance_schedule"}
+{"text": "Quick question: Give the impeller diameter for the pump.", "label": "specifications"}
+{"text": "Can you tell me, When should the centrifugal pump get its bearing inspection?", "label": "maintenance_schedule"}
+{"text": "What safety limit governs the PRV-77?", "label": "safety"}
+{"text": "I need to know, When should the centrifugal pump get its bearing inspection?", "label": "maintenance_schedule"}
+{"text": "I need to know, What is the cause of reduced heat transfer on the exchanger?", "label": "troubleshooting"}
+{"text": "How often is tube bundle cleaning required for the exchanger?", "label": "maintenance_schedule"}
+{"text": "Please confirm: Give the body material for the safety valve.", "label": "specifications"}
+{"text": "Describe the control signal for the storage tank.", "label": "instrumentation"}
+{"text": "Can you tell me, What is the correct shutdown procedure for pump CP-200?", "label": "startup_shutdown"}
+{"text": "What should I do about test interval on the PRV-77?", "label": "safety"}
+{"text": "Please confirm: What is the action if leaking below set pressure of the PRV-77?", "label": "safety"}
+{"text": "Can you tell me, What should I do about test interval on the PRV-77?", "label": "safety"}
+{"text": "Quick question: What oil spec applies to compressor AC-110?", "label": "lubrication"}
+{"text": "List the start condition of the compressor.", "label": "startup_shutdown"}
+{"text": "Quick question: How high can the centrifugal pump run before it exceeds its rated flow?", "label": "operating_limits"}
+{"text": "I need to know, What oil spec applies to compressor AC-110?", "label": "lubrication"}
+{"text": "I need to know, How high can the air compressor run before it exceeds its maximum discharge air temperature?", "label": "operating_limits"}
+{"text": "Diagnose the cause of excessive vibration for the CP-200.", "label": "troubleshooting"}
+{"text": "I need to know, What safety limit governs the PRV-77?", "label": "safety"}
+{"text": "What is the overhaul interval for the safety valve?", "label": "maintenance_schedule"}
+{"text": "Please confirm: How often is tube bundle cleaning required for the heat exchanger?", "label": "maintenance_schedule"}
+{"text": "I need to know, What is the set pressure of the PRV-77?", "label": "safety"}
+{"text": "I need to know, What could cause cause of frequent load/unload cycling on the air compressor?", "label": "troubleshooting"}
+{"text": "Quick question: How often is positioner calibration required for the CV-42?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What is the set pressure of the PRV-77?", "label": "safety"}
+{"text": "Please confirm: What should I do about test interval on the relief valve?", "label": "safety"}
+{"text": "What are the specs of the tank?", "label": "specifications"}
+{"text": "Can you tell me, What is the nominal capacity of the storage tank?", "label": "specifications"}
+{"text": "Can you tell me, What environmental control applies to the tank?", "label": "environmental"}
+{"text": "Tell me the motor rating for the AC-110.", "label": "electrical"}
+{"text": "I need to know, What is the maximum discharge air temperature of the AC-110?", "label": "operating_limits"}
+{"text": "What is the signal type of the control valve?", "label": "instrumentation"}
+{"text": "Quick question: What is the rated flow of pump CP-200?", "label": "operating_limits"}
+{"text": "I need to know, What could cause cause of high discharge temperature on compressor AC-110?", "label": "troubleshooting"}
+{"text": "Give the body material for valve PRV-77.", "label": "specifications"}
+{"text": "When should the relief valve get its overhaul interval?", "label": "maintenance_schedule"}
+{"text": "Please confirm: When should the centrifugal pump get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "Please confirm: What should I do about action if leaking below set pressure on the PRV-77?", "label": "safety"}
+{"text": "I need to know, What is the shell material of tank TK-900?", "label": "specifications"}
+{"text": "I need to know, What should I do about test interval on the relief valve?", "label": "safety"}
+{"text": "Please confirm: Diagnose the cause of frequent load/unload cycling for the AC-110.", "label": "troubleshooting"}
+{"text": "I need to know, Why is the heat exchanger having trouble?", "label": "troubleshooting"}
+{"text": "Please confirm: How high can the air compressor run before it exceeds its maximum discharge air temperature?", "label": "operating_limits"}
+{"text": "Quick question: What could cause cause of high discharge temperature on compressor AC-110?", "label": "troubleshooting"}
+{"text": "What is the high-level alarm for the storage tank?", "label": "instrumentation"}
+{"text": "Please confirm: Give the maintenance interval for compressor AC-110.", "label": "maintenance_schedule"}
+{"text": "I need to know, Describe the control signal for the storage tank.", "label": "instrumentation"}
+{"text": "What are the operating limits of compressor AC-110?", "label": "operating_limits"}
+{"text": "Quick question: What is the high-level alarm for the storage tank?", "label": "instrumentation"}
+{"text": "Can you tell me, Why is the AC-110 having trouble?", "label": "troubleshooting"}
+{"text": "Quick question: How high can the CP-200 run before it exceeds its maximum discharge pressure?", "label": "operating_limits"}
+{"text": "I need to know, Give the body material for valve PRV-77.", "label": "specifications"}
+{"text": "I need to know, What is the signal type of the control valve?", "label": "instrumentation"}
+{"text": "I need to know, How high can the centrifugal pump run before it exceeds its rated flow?", "label": "operating_limits"}
+{"text": "Quick question: What are the operating limits of compressor AC-110?", "label": "operating_limits"}
+{"text": "I need to know, When should the relief valve get its overhaul interval?", "label": "maintenance_schedule"}
+{"text": "Quick question: What is the impeller diameter of the pump?", "label": "specifications"}
+{"text": "I need to know, Tell me the bearing oil grade of the CP-200.", "label": "lubrication"}
+{"text": "Give the maintenance interval for compressor AC-110.", "label": "maintenance_schedule"}
+{"text": "I need to know, How often is tube bundle cleaning required for the exchanger?", "label": "maintenance_schedule"}
+{"text": "Quick question: Describe the control signal for the storage tank.", "label": "instrumentation"}
+{"text": "Quick question: Tell me the oil separator change of the AC-110.", "label": "lubrication"}
+{"text": "Quick question: What is the action if leaking below set pressure of the PRV-77?", "label": "safety"}
+{"text": "Please confirm: What is the action if leaking below set pressure of the relief valve?", "label": "safety"}
+{"text": "Please confirm: Tell me the oil level requirement of pump CP-200.", "label": "lubrication"}
+{"text": "Please confirm: Tell me the oil separator change of the AC-110.", "label": "lubrication"}
+{"text": "Quick question: Give the maintenance interval for pump CP-200.", "label": "maintenance_schedule"}
+{"text": "Can you tell me, Tell me the oil level requirement of pump CP-200.", "label": "lubrication"}
+{"text": "Quick question: State the rated flow for the pump.", "label": "operating_limits"}
+{"text": "I need to know, What is the nominal capacity of the tank?", "label": "specifications"}
+{"text": "What is the cause of reduced heat transfer on the exchanger?", "label": "troubleshooting"}
+{"text": "Can you tell me, What is the cause of reduced heat transfer on the exchanger?", "label": "troubleshooting"}
+{"text": "Please confirm: Describe the control signal for the storage tank.", "label": "instrumentation"}
+{"text": "I need to know, What is the overhaul interval for the safety valve?", "label": "maintenance_schedule"}
+{"text": "Quick question: Describe the control signal for valve CV-42.", "label": "instrumentation"}
+{"text": "I need to know, What is the shutdown step for the compressor?", "label": "startup_shutdown"}
+{"text": "Quick question: What is the nominal capacity of the storage tank?", "label": "specifications"}
+{"text": "How high can the CP-200 run before it exceeds its maximum discharge pressure?", "label": "operating_limits"}
+{"text": "Quick question: What should I do about test interval on the PRV-77?", "label": "safety"}
+{"text": "Can you tell me, What could cause cause of high discharge temperature on compressor AC-110?", "label": "troubleshooting"}
+{"text": "I need to know, Diagnose the cause of excessive vibration for the CP-200.", "label": "troubleshooting"}
+{"text": "I need to know, What could cause cause of frequent load/unload cycling on the compressor?", "label": "troubleshooting"}
+{"text": "Quick question: What is the air filter replacement for compressor AC-110?", "label": "maintenance_schedule"}
+{"text": "What oil spec applies to compressor AC-110?", "label": "lubrication"}
+{"text": "Can you tell me, When should pump CP-200 get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, Describe the control signal for valve CV-42.", "label": "instrumentation"}
+{"text": "Can you tell me, What is the rated flow of the centrifugal pump?", "label": "operating_limits"}
+{"text": "I need to know, Give the casing material for pump CP-200.", "label": "specifications"}
+{"text": "What could cause cause of frequent load/unload cycling on the compressor?", "label": "troubleshooting"}
+{"text": "Quick question: What is the signal type for valve CV-42?", "label": "instrumentation"}
+{"text": "Please confirm: Tell me the motor rating for the AC-110.", "label": "electrical"}
+{"text": "What is the signal type for valve CV-42?", "label": "instrumentation"}
+{"text": "Quick question: Tell me the motor rating for the AC-110.", "label": "electrical"}
+{"text": "Diagnose the cause of frequent load/unload cycling for the AC-110.", "label": "troubleshooting"}
+{"text": "Can you tell me, What could cause cause of frequent load/unload cycling on the compressor?", "label": "troubleshooting"}
+{"text": "Quick question: What could cause cause of frequent load/unload cycling on the compressor?", "label": "troubleshooting"}
+{"text": "When should pump CP-200 get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "What is the cooling water discharge limit for the exchanger?", "label": "environmental"}
+{"text": "Quick question: What could cause cause of frequent load/unload cycling on the air compressor?", "label": "troubleshooting"}
+{"text": "Can you tell me, What is the shell material of tank TK-900?", "label": "specifications"}
+{"text": "I need to know, State the rated flow for pump CP-200.", "label": "operating_limits"}
+{"text": "What is the maximum discharge air temperature of the AC-110?", "label": "operating_limits"}
+{"text": "I need to know, What should I do about action if leaking below set pressure on the PRV-77?", "label": "safety"}
+{"text": "Please confirm: Why is the AC-110 having trouble?", "label": "troubleshooting"}
+{"text": "I need to know, Give the impeller diameter for the pump.", "label": "specifications"}
+{"text": "I need to know, What is the nominal capacity of the storage tank?", "label": "specifications"}
+{"text": "What is the correct shutdown procedure for pump CP-200?", "label": "startup_shutdown"}
+{"text": "How high can the air compressor run before it exceeds its maximum discharge air temperature?", "label": "operating_limits"}
+{"text": "Please confirm: What safety limit governs the PRV-77?", "label": "safety"}
+{"text": "I need to know, What is the electrical rating of the compressor?", "label": "electrical"}
+{"text": "I need to know, What is the air filter replacement for compressor AC-110?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, How often should the oil in the AC-110 be changed?", "label": "lubrication"}
+{"text": "Can you tell me, How is the TK-900 instrumented?", "label": "instrumentation"}
+{"text": "What is the rated flow of the centrifugal pump?", "label": "operating_limits"}
+{"text": "Can you tell me, What oil spec applies to compressor AC-110?", "label": "lubrication"}
+{"text": "Please confirm: When should the centrifugal pump get its bearing inspection?", "label": "maintenance_schedule"}
+{"text": "Please confirm: What is the shell material of tank TK-900?", "label": "specifications"}
+{"text": "Please confirm: What is the maximum discharge air temperature of the AC-110?", "label": "operating_limits"}
+{"text": "Quick question: Give the maintenance interval for the air compressor.", "label": "maintenance_schedule"}
+{"text": "Please confirm: What is the nominal capacity of the tank?", "label": "specifications"}
+{"text": "Quick question: Diagnose the cause of excessive vibration for the CP-200.", "label": "troubleshooting"}
+{"text": "Please confirm: Why is the heat exchanger having trouble?", "label": "troubleshooting"}
+{"text": "What is the impeller diameter of the pump?", "label": "specifications"}
+{"text": "Can you tell me, What is the impeller diameter of the pump?", "label": "specifications"}
+{"text": "Quick question: What environmental control applies to the tank?", "label": "environmental"}
+{"text": "Can you tell me, Give the body material for the safety valve.", "label": "specifications"}
+{"text": "I need to know, State the rated flow for the pump.", "label": "operating_limits"}
+{"text": "Please confirm: What is the cause of reduced heat transfer on the exchanger?", "label": "troubleshooting"}
+{"text": "Please confirm: What are the operating limits of compressor AC-110?", "label": "operating_limits"}
+{"text": "Can you tell me, How high can the CP-200 run before it exceeds its maximum discharge pressure?", "label": "operating_limits"}
+{"text": "Quick question: When should the centrifugal pump get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "When should the compressor get its oil filter replacement?", "label": "maintenance_schedule"}
+{"text": "Quick question: What is the nominal capacity of the tank?", "label": "specifications"}
+{"text": "Tell me the bearing oil grade of the CP-200.", "label": "lubrication"}
+{"text": "Please confirm: What is the impeller diameter of the pump?", "label": "specifications"}
+{"text": "Quick question: Tell me the bearing oil grade of the CP-200.", "label": "lubrication"}
+{"text": "Can you tell me, What are the operating limits of compressor AC-110?", "label": "operating_limits"}
+{"text": "Quick question: How is the TK-900 instrumented?", "label": "instrumentation"}
+{"text": "Quick question: State the set pressure for the PRV-77.", "label": "safety"}
+{"text": "Can you tell me, What is the action if leaking below set pressure of the relief valve?", "label": "safety"}
+{"text": "Please confirm: What is the maximum working pressure of the compressor?", "label": "operating_limits"}
+{"text": "Quick question: Give the maintenance interval for compressor AC-110.", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What are the specs of the tank?", "label": "specifications"}
+{"text": "I need to know, When should pump CP-200 get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, How often is tube bundle cleaning required for the heat exchanger?", "label": "maintenance_schedule"}
+{"text": "I need to know, When should the CV-42 get its positioner calibration?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, Tell me the motor rating for the AC-110.", "label": "electrical"}
+{"text": "Quick question: What is the maximum working pressure of the compressor?", "label": "operating_limits"}
+{"text": "Can you tell me, What is the nominal capacity of the tank?", "label": "specifications"}
+{"text": "I need to know, What is the signal type for valve CV-42?", "label": "instrumentation"}
+{"text": "Please confirm: What is the high-level alarm for the storage tank?", "label": "instrumentation"}
+{"text": "How often is positioner calibration required for the CV-42?", "label": "maintenance_schedule"}
+{"text": "I need to know, What is the action if leaking below set pressure of the relief valve?", "label": "safety"}
+{"text": "I need to know, What environmental control applies to the tank?", "label": "environmental"}
+{"text": "What is the action if leaking below set pressure of the relief valve?", "label": "safety"}
+{"text": "Can you tell me, When should the compressor get its oil filter replacement?", "label": "maintenance_schedule"}
+{"text": "When should the CV-42 get its positioner calibration?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, Diagnose the cause of frequent load/unload cycling for the AC-110.", "label": "troubleshooting"}
+{"text": "Quick question: How often is tube bundle cleaning required for the exchanger?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, State the rated flow for pump CP-200.", "label": "operating_limits"}
+{"text": "I need to know, Give the number of tubes for the HX-305.", "label": "specifications"}
+{"text": "Quick question: When should the relief valve get its overhaul interval?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, Tell me the bearing oil grade of the CP-200.", "label": "lubrication"}
+{"text": "Can you tell me, What is the rated flow of pump CP-200?", "label": "operating_limits"}
+{"text": "Give the impeller diameter for the pump.", "label": "specifications"}
+{"text": "Quick question: List the start condition of the compressor.", "label": "startup_shutdown"}
+{"text": "Please confirm: Tell me the bearing oil grade of the CP-200.", "label": "lubrication"}
+{"text": "Can you tell me, What is the action if leaking below set pressure of the PRV-77?", "label": "safety"}
+{"text": "Can you tell me, List the start condition of the compressor.", "label": "startup_shutdown"}
+{"text": "I need to know, Give the maintenance interval for pump CP-200.", "label": "maintenance_schedule"}
+{"text": "Please confirm: What could cause cause of high discharge temperature on compressor AC-110?", "label": "troubleshooting"}
+{"text": "Can you tell me, What could cause cause of frequent load/unload cycling on the air compressor?", "label": "troubleshooting"}
+{"text": "Please confirm: When should pump CP-200 get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "I need to know, What are the operating limits of compressor AC-110?", "label": "operating_limits"}
+{"text": "Please confirm: Give the maintenance interval for the air compressor.", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What is the signal type for valve CV-42?", "label": "instrumentation"}
+{"text": "Can you tell me, Diagnose the cause of excessive vibration for the CP-200.", "label": "troubleshooting"}
+{"text": "Please confirm: What should I do about test interval on the PRV-77?", "label": "safety"}
+{"text": "I need to know, What is the correct shutdown procedure for pump CP-200?", "label": "startup_shutdown"}
+{"text": "Can you tell me, State the rated flow for the pump.", "label": "operating_limits"}
+{"text": "Please confirm: Give the number of tubes for the HX-305.", "label": "specifications"}
+{"text": "Can you tell me, Describe the control signal for the storage tank.", "label": "instrumentation"}
+{"text": "Please confirm: Give the body material for valve PRV-77.", "label": "specifications"}
+{"text": "Can you tell me, When should the relief valve get its overhaul interval?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What is the overhaul interval for the safety valve?", "label": "maintenance_schedule"}
+{"text": "I need to know, What should I do about test interval on the PRV-77?", "label": "safety"}
+{"text": "I need to know, Why is the AC-110 having trouble?", "label": "troubleshooting"}
+{"text": "Can you tell me, What is the shutdown step for the compressor?", "label": "startup_shutdown"}
+{"text": "Give the maintenance interval for the air compressor.", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What should I do about test interval on the relief valve?", "label": "safety"}
+{"text": "State the rated flow for the pump.", "label": "operating_limits"}
+{"text": "Please confirm: When should the compressor get its oil filter replacement?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What is the cooling water discharge limit for the exchanger?", "label": "environmental"}
+{"text": "Give the casing material for pump CP-200.", "label": "specifications"}
+{"text": "I need to know, What are the specs of the tank?", "label": "specifications"}
+{"text": "Please confirm: How high can the centrifugal pump run before it exceeds its rated flow?", "label": "operating_limits"}
+{"text": "Please confirm: What is the overhaul interval for the safety valve?", "label": "maintenance_schedule"}
+{"text": "Please confirm: What is the set pressure of the PRV-77?", "label": "safety"}
+{"text": "How is the TK-900 instrumented?", "label": "instrumentation"}
+{"text": "Quick question: What is the cause of reduced heat transfer on the exchanger?", "label": "troubleshooting"}
+{"text": "Please confirm: What is the cooling water discharge limit for the exchanger?", "label": "environmental"}
+{"text": "Please confirm: What are the specs of the tank?", "label": "specifications"}
+{"text": "Can you tell me, What should I do about action if leaking below set pressure on the PRV-77?", "label": "safety"}
+{"text": "Quick question: When should the CV-42 get its positioner calibration?", "label": "maintenance_schedule"}
+{"text": "Please confirm: When should the CV-42 get its positioner calibration?", "label": "maintenance_schedule"}
+{"text": "Quick question: What safety limit governs the PRV-77?", "label": "safety"}
+{"text": "Quick question: Why is the AC-110 having trouble?", "label": "troubleshooting"}
+{"text": "Can you tell me, When should the centrifugal pump get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "State the set pressure for the PRV-77.", "label": "safety"}
+{"text": "Quick question: What is the maximum design pressure of unit HX-305?", "label": "operating_limits"}
+{"text": "When should the centrifugal pump get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, Give the maintenance interval for the air compressor.", "label": "maintenance_schedule"}
+{"text": "What is the shutdown step for the compressor?", "label": "startup_shutdown"}
+{"text": "Quick question: What is the set pressure of the PRV-77?", "label": "safety"}
+{"text": "I need to know, Give the body material for the safety valve.", "label": "specifications"}
+{"text": "What is the maximum working pressure of the compressor?", "label": "operating_limits"}
+{"text": "Can you tell me, How often is positioner calibration required for the CV-42?", "label": "maintenance_schedule"}
+{"text": "What is the electrical rating of the compressor?", "label": "electrical"}
+{"text": "I need to know, What is the rated flow of the centrifugal pump?", "label": "operating_limits"}
+{"text": "I need to know, How high can the CP-200 run before it exceeds its maximum discharge pressure?", "label": "operating_limits"}
+{"text": "Quick question: What is the correct shutdown procedure for pump CP-200?", "label": "startup_shutdown"}
+{"text": "What could cause cause of frequent load/unload cycling on the air compressor?", "label": "troubleshooting"}
+{"text": "Why is the AC-110 having trouble?", "label": "troubleshooting"}
+{"text": "What is the air filter replacement for compressor AC-110?", "label": "maintenance_schedule"}
+{"text": "Please confirm: State the set pressure for the PRV-77.", "label": "safety"}
+{"text": "What should I do about action if leaking below set pressure on the PRV-77?", "label": "safety"}
+{"text": "Quick question: How often is tube bundle cleaning required for the heat exchanger?", "label": "maintenance_schedule"}
+{"text": "When should the centrifugal pump get its bearing inspection?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, What is the high-level alarm for the storage tank?", "label": "instrumentation"}
+{"text": "Quick question: How high can the air compressor run before it exceeds its maximum discharge air temperature?", "label": "operating_limits"}
+{"text": "Can you tell me, Give the casing material for pump CP-200.", "label": "specifications"}
+{"text": "What could cause cause of high discharge temperature on compressor AC-110?", "label": "troubleshooting"}
+{"text": "Quick question: What is the cooling water discharge limit for the exchanger?", "label": "environmental"}
+{"text": "Can you tell me, What is the maximum design pressure of unit HX-305?", "label": "operating_limits"}
+{"text": "Please confirm: How high can the CP-200 run before it exceeds its maximum discharge pressure?", "label": "operating_limits"}
+{"text": "Please confirm: List the start condition of the compressor.", "label": "startup_shutdown"}
+{"text": "Please confirm: Give the maintenance interval for pump CP-200.", "label": "maintenance_schedule"}
+{"text": "Quick question: What should I do about action if leaking below set pressure on the PRV-77?", "label": "safety"}
+{"text": "Quick question: What is the maximum discharge air temperature of the AC-110?", "label": "operating_limits"}
+{"text": "I need to know, Describe the control signal for valve CV-42.", "label": "instrumentation"}
+{"text": "Quick question: Tell me the oil level requirement of pump CP-200.", "label": "lubrication"}
+{"text": "Quick question: When should the compressor get its oil filter replacement?", "label": "maintenance_schedule"}
+{"text": "Please confirm: What is the rated flow of pump CP-200?", "label": "operating_limits"}
+{"text": "Quick question: When should pump CP-200 get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "How high can the centrifugal pump run before it exceeds its rated flow?", "label": "operating_limits"}
+{"text": "Please confirm: What oil spec applies to compressor AC-110?", "label": "lubrication"}
+{"text": "Quick question: What is the action if leaking below set pressure of the relief valve?", "label": "safety"}
+{"text": "Can you tell me, Why is the heat exchanger having trouble?", "label": "troubleshooting"}
+{"text": "What is the set pressure of the PRV-77?", "label": "safety"}
+{"text": "What is the shell material of tank TK-900?", "label": "specifications"}
+{"text": "I need to know, When should the centrifugal pump get its mechanical seal replacement?", "label": "maintenance_schedule"}
+{"text": "Can you tell me, State the set pressure for the PRV-77.", "label": "safety"}
+{"text": "Please confirm: Describe the control signal for valve CV-42.", "label": "instrumentation"}
+{"text": "Can you tell me, Give the maintenance interval for pump CP-200.", "label": "maintenance_schedule"}
