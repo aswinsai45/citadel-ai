@@ -1,0 +1,210 @@
+{"text": "sry, when does the air compressor hit its ceilig?", "label": "operating_limits"}
+{"text": "the nuts and bolts of tank TK-900?", "label": "specifications"}
+{"text": "uh when does the exchangr hit its ceiling?", "label": "operating_limits"}
+{"text": "sry, the nuts and bolts of thetank?", "label": "specifications"}
+{"text": "how do we stay within limits around the TK-900?", "label": "environmental"}
+{"text": "hey something's off wih compressor AC-110, what could it be?", "label": "troubleshooting"}
+{"text": "uh what makes pump CP-200 go wron?", "label": "troubleshooting"}
+{"text": "uh what's the service cadence for the CV-42?", "label": "maintenance_schedule"}
+{"text": "ok so how long before the CP-200 needs a top-up?", "label": "lubrication"}
+{"text": "ok so discharge rulesfor the tank?", "label": "environmental"}
+{"text": "what protects us if ank TK-900 goes out of range?", "label": "safety"}
+{"text": "how frequently do we touch the air compressor?", "label": "maintenance_schedule"}
+{"text": "sry, what are the raw numbers on the CP-200?", "label": "specifications"}
+{"text": "hey how do i keep the relief valve from becoming a hazard?", "label": "safety"}
+{"text": "sry, something's off with the CV-42, what could it be?", "label": "troubleshooting"}
+{"text": "something's off with valve CV-4, what could it be?", "label": "troubleshooting"}
+{"text": "hey something's off with the exchanger, what could it be?", "label": "troubleshooting"}
+{"text": "the nuts and bolts of the TK-900?", "label": "specifications"}
+{"text": "uh what's the ervice cadence for the compressor?", "label": "maintenance_schedule"}
+{"text": "hey the nuts and bolts of the heat exchangr?", "label": "specifications"}
+{"text": "sry, what are the raw numbers on unit HX-305?", "label": "specifications"}
+{"text": "something's off with the AC-110,what could it be?", "label": "troubleshooting"}
+{"text": "ok so how long before the AC-110 needs a top-up?", "label": "lubrication"}
+{"text": "which grade keeps compressor AC-110 running smooth?", "label": "lubrication"}
+{"text": "what are te raw numbers on tank TK-900?", "label": "specifications"}
+{"text": "hey which grade keeps pump CP-200 running smooth?", "label": "lubrication"}
+{"text": "ok so the nuts and bolts of the safety valve?", "label": "specifications"}
+{"text": "discharge rules for the TK-900?", "label": "environmental"}
+{"text": "uh the nuts and bolts of the pump?", "label": "specifications"}
+{"text": "uh something's off with the pump, what could it be?", "label": "troubleshooting"}
+{"text": "sry, how frequently do we touch the PRV-77?", "label": "maintenance_schedule"}
+{"text": "quick one, steps to bring the centrifugal pump down safely?", "label": "startup_shutdown"}
+{"text": "uh wha tells us what the CV-42 is doing?", "label": "instrumentation"}
+{"text": "ok so something's off with the HX-305, what could it be?", "label": "troubleshooting"}
+{"text": "how frequently do we toch valve CV-42?", "label": "maintenance_schedule"}
+{"text": "quick one, which grade keeps the pump running smooth?", "label": "lubrication"}
+{"text": "quick one, what are the raw numbers on the HX-305?", "label": "specifications"}
+{"text": "quick one, steps to bring comprssor AC-110 down safely?", "label": "startup_shutdown"}
+{"text": "o so what's the service cadence for valve CV-42?", "label": "maintenance_schedule"}
+{"text": "uh what protects us if the tank goes out f range?", "label": "safety"}
+{"text": "hey how far can i run the heat exchanger before it's too much?", "label": "operating_limits"}
+{"text": "uh what's the service cadence for the AC-110?", "label": "maintenance_schedule"}
+{"text": "what's the service cadence for compressor AC-110?", "label": "maintenance_schedule"}
+{"text": "hey what are the raw numbers on the heat exchanger?", "label": "specifications"}
+{"text": "uh how frequently do we touch the compressor?", "label": "maintenance_schedule"}
+{"text": "ok so what makes compressor AC-110 go wrong?", "label": "troubleshooting"}
+{"text": "what makes the exchanger go wrong?", "label": "troubleshooting"}
+{"text": "which grae keeps the compressor running smooth?", "label": "lubrication"}
+{"text": "sry, what are the raw numbers on the relief valve?", "label": "specifications"}
+{"text": "ok so what makes the control valve go wrong?", "label": "troubleshooting"}
+{"text": "how do i get the CP-20 going and stop it right?", "label": "startup_shutdown"}
+{"text": "how do we stay within imits around the heat exchanger?", "label": "environmental"}
+{"text": "how frequently do we touch the centrifugal pump?", "label": "maintenance_schedule"}
+{"text": "how do i get pump CP-200 going and stop it right?", "label": "startup_shutdown"}
+{"text": "uh how do we stay within limits around tank TK-900?", "label": "environmental"}
+{"text": "how do i gt the AC-110 going and stop it right?", "label": "startup_shutdown"}
+{"text": "when does the HX-305 hit its ceiling?", "label": "operating_limits"}
+{"text": "how is the tank monitored an signalled?", "label": "instrumentation"}
+{"text": "what are the raw numbers on the xchanger?", "label": "specifications"}
+{"text": "heywhat tells us what the tank is doing?", "label": "instrumentation"}
+{"text": "the nuts and bolts of the HX-305?", "label": "specifications"}
+{"text": "uh what trips if compressor AC-110 pulls too much?", "label": "electrical"}
+{"text": "what makes the compressor go wrong?", "label": "troubleshooting"}
+{"text": "uh what makes the HX-305 gowrong?", "label": "troubleshooting"}
+{"text": "hey how frequently do we touch the heat excanger?", "label": "maintenance_schedule"}
+{"text": "discharge rules or tank TK-900?", "label": "environmental"}
+{"text": "quick one, how do i keep the storage tank from becoming a hazard?", "label": "safety"}
+{"text": "ok so how do i keep the TK-900 from becoming a hazard?", "label": "safety"}
+{"text": "quick one, how is tank TK-900 moitored and signalled?", "label": "instrumentation"}
+{"text": "uh which grade keeps the air compresor running smooth?", "label": "lubrication"}
+{"text": "uh how do we stay within limits around the tank?", "label": "environmental"}
+{"text": "hey steps to bring the pump down safely?", "label": "startup_shutdown"}
+{"text": "ok so how is the storage tank monitored and signalle?", "label": "instrumentation"}
+{"text": "power needs of the air compressor?", "label": "electrical"}
+{"text": "quick one, when does the compressor hit its ceiling?", "label": "operating_limits"}
+{"text": "steps to bring the CP-200 dow safely?", "label": "startup_shutdown"}
+{"text": "hey steps to bring the air compressor down safel?", "label": "startup_shutdown"}
+{"text": "ok so how frequently do we touch the AC-110?", "label": "maintenance_schedule"}
+{"text": "ok sohow far can i run the AC-110 before it's too much?", "label": "operating_limits"}
+{"text": "ok so when does the CP-200 hit its ceiling?", "label": "operating_limits"}
+{"text": "sry, how do i keep the safety valve from becoming a hazard?", "label": "safety"}
+{"text": "uh ow do i get the compressor going and stop it right?", "label": "startup_shutdown"}
+{"text": "sry, what's the service cadence for he air compressor?", "label": "maintenance_schedule"}
+{"text": "uh how is the CV-42 monitored and signalled?", "label": "instrumentation"}
+{"text": "when does the heat exchanger hit its ceiling?", "label": "operating_limits"}
+{"text": "how do i get the centrifugal pump going and stop it right?", "label": "startup_shutdown"}
+{"text": "hey how do we stay within limits aroud the HX-305?", "label": "environmental"}
+{"text": "the nuts and bolts of the centrifugal pump?", "label": "specifications"}
+{"text": "uh something's off with pump CP-200, what could it be?", "label": "troubleshooting"}
+{"text": "uh when does pump CP-200 hit its ceiling?", "label": "operating_limits"}
+{"text": "uh what makes the centrifugal pump go wrong?", "label": "troubleshooting"}
+{"text": "sry, what's the service cadence for unit HX-305?", "label": "maintenance_schedule"}
+{"text": "hey what's the service cadence for pump CP-200?", "label": "maintenance_schedule"}
+{"text": "the nuts an bolts of the exchanger?", "label": "specifications"}
+{"text": "quick one, how long before the pump needs a top-up?", "label": "lubrication"}
+{"text": "the nuts and bolts of the storage tank?", "label": "specifications"}
+{"text": "sry, how far can i run pump CP-200 before it's too much?", "label": "operating_limits"}
+{"text": "sry, what makes the pump go wrong?", "label": "troubleshooting"}
+{"text": "when does the cenrifugal pump hit its ceiling?", "label": "operating_limits"}
+{"text": "sry,what's the service cadence for the heat exchanger?", "label": "maintenance_schedule"}
+{"text": "how frequently do we touch the exchanger?", "label": "maintenance_schedule"}
+{"text": "uh how do we stay within limits around the storage tank?", "label": "environmental"}
+{"text": "sry, power needs of the compressor?", "label": "electrical"}
+{"text": "hey what's the service cadence for the HX-305?", "label": "maintenance_schedule"}
+{"text": "sry, the nuts and bolts of valve PRV-77?", "label": "specifications"}
+{"text": "hey the nuts and bolts of the relief valve?", "label": "specifications"}
+{"text": "sry, what makes the CV-2 go wrong?", "label": "troubleshooting"}
+{"text": "what tells us what valve CV-42 is doing?", "label": "instrumentation"}
+{"text": "quick one, what protects us if the PRV-77 goes out of range?", "label": "safety"}
+{"text": "what's the service cadence for the relief valve?", "label": "maintenance_schedule"}
+{"text": "uh what makes the heat exchanger go wrong?", "label": "troubleshooting"}
+{"text": "what are the raw nubers on the tank?", "label": "specifications"}
+{"text": "sry, what makes valve CV-42 go wrong?", "label": "troubleshooting"}
+{"text": "ok so what trips if the compressor pulls too much?", "label": "electrical"}
+{"text": "hey how frequently do we touch the CV-42?", "label": "maintenance_schedule"}
+{"text": "hey how do i keep the tank from becoming a hazard?", "label": "safety"}
+{"text": "which grade keeps the AC-110 running smooth?", "label": "lubrication"}
+{"text": "uh how long befor the air compressor needs a top-up?", "label": "lubrication"}
+{"text": "uh how do i get the pump goingand stop it right?", "label": "startup_shutdown"}
+{"text": "how do i keep tank TK-900 from becoming a hazard?", "label": "safety"}
+{"text": "quick one, dischrge rules for the HX-305?", "label": "environmental"}
+{"text": "what protects usif the safety valve goes out of range?", "label": "safety"}
+{"text": "how is valve CV-42 monitored and signalled?", "label": "instrumentation"}
+{"text": "quick one, how frequently do we touch the pump?", "label": "maintenance_schedule"}
+{"text": "how long before compressor AC-110 needs a top-up?", "label": "lubrication"}
+{"text": "what are the raw numbers on the pump?", "label": "specifications"}
+{"text": "sry, when does the pump hit its ceiling?", "label": "operating_limits"}
+{"text": "uh what are the raw numbers on pump CP-200?", "label": "specifications"}
+{"text": "how frquently do we touch the CP-200?", "label": "maintenance_schedule"}
+{"text": "hey something's off with the air compressor, what could it be?", "label": "troubleshooting"}
+{"text": "ok so which grade keeps the CP-200 runningsmooth?", "label": "lubrication"}
+{"text": "ok so what's the service cadence for the exchanger?", "label": "maintenance_schedule"}
+{"text": "ok so how far can i run compressor AC-110 before it's too much?", "label": "operating_limits"}
+{"text": "ok so what makes the AC-110 go wrong?", "label": "troubleshooting"}
+{"text": "how frequntly do we touch the safety valve?", "label": "maintenance_schedule"}
+{"text": "discharge rules for the exchanger?", "label": "environmental"}
+{"text": "what tips if the AC-110 pulls too much?", "label": "electrical"}
+{"text": "ok so what's the service cadence for the safety vave?", "label": "maintenance_schedule"}
+{"text": "ok so what protects us if valve PRV-77 goes out of range?", "label": "safety"}
+{"text": "ok so power needs of the AC-11?", "label": "electrical"}
+{"text": "how frequently do we touch unit HX-305?", "label": "maintenance_schedule"}
+{"text": "hey what trips if the air compressor pulls too much?", "label": "electrical"}
+{"text": "hey what tells us what the storage tank is doing?", "label": "instrumentation"}
+{"text": "sry, when does unit HX-305 hit its ceiling?", "label": "operating_limits"}
+{"text": "power needs of compressor AC-110?", "label": "electrical"}
+{"text": "uh what makes the air compressor go wrong?", "label": "troubleshooting"}
+{"text": "ok so how fr can i run the centrifugal pump before it's too much?", "label": "operating_limits"}
+{"text": "uh what's the service cadence for the PRV-7?", "label": "maintenance_schedule"}
+{"text": "uh how far can i run the pump before it's too much?", "label": "operating_limits"}
+{"text": "ok so discharge rules for unit HX-305?", "label": "environmental"}
+{"text": "how frequently do e touch the HX-305?", "label": "maintenance_schedule"}
+{"text": "how far can i run the HX-305 before it's too much?", "label": "operating_limits"}
+{"text": "ok so what are the raw numbers on the TK-900?", "label": "specifications"}
+{"text": "how frequently do we touch the control valve?", "label": "maintenance_schedule"}
+{"text": "how far can i run the exchanger before it's too much?", "label": "operating_limits"}
+{"text": "what tells us what tank TK-900 is doing?", "label": "instrumentation"}
+{"text": "the nuts and bolts of te PRV-77?", "label": "specifications"}
+{"text": "something's off with the centrifugal pum, what could it be?", "label": "troubleshooting"}
+{"text": "how frequently do we touch valve PRV-77?", "label": "maintenance_schedule"}
+{"text": "when does the AC-110 hit its ceiling?", "label": "operating_limits"}
+{"text": "ok so what are the raw numbers on valve PRV-77?", "label": "specifications"}
+{"text": "how do i keep the PRV-77 from becoming a hazard?", "label": "safety"}
+{"text": "ok so something's off with the CP-200, what could it be?", "label": "troubleshooting"}
+{"text": "hey how far can i run unit HX-305 before it's too much?", "label": "operating_limits"}
+{"text": "what protects us if the storage tank goes out of range?", "label": "safety"}
+{"text": "discharge rules for the storage tank?", "label": "environmental"}
+{"text": "what's the service cadence for the centrifugal pump?", "label": "maintenance_schedule"}
+{"text": "how do i get compressor AC-110 going and stop it right?", "label": "startup_shutdown"}
+{"text": "discharge rules for the heat exchanger?", "label": "environmental"}
+{"text": "ok so what are the raw numers on the safety valve?", "label": "specifications"}
+{"text": "quick one, the nuts an bolts of unit HX-305?", "label": "specifications"}
+{"text": "ok so something's off with unit HX-305, what could it be?", "label": "troubleshooting"}
+{"text": "how frequently do we touch pump CP200?", "label": "maintenance_schedule"}
+{"text": "uh how do i get the air compressor going and stop it right?", "label": "startup_shutdown"}
+{"text": "how far can i run the CP-200 before it's too much?", "label": "operating_limits"}
+{"text": "quick one, what are the raw numbers on the centrifugal pump?", "label": "specifications"}
+{"text": "ok s how is the control valve monitored and signalled?", "label": "instrumentation"}
+{"text": "something's off with the compressor, what could it be?", "label": "troubleshooting"}
+{"text": "quick one, what's the service cadence for the control valve?", "label": "maintenance_schedule"}
+{"text": "quick one, something's off with the heat exchanger, what could it be?", "label": "troubleshooting"}
+{"text": "ok so what tells us what the TK-900 is doing?", "label": "instrumentation"}
+{"text": "sry, how far can i run the air compressor beforeit's too much?", "label": "operating_limits"}
+{"text": "uh how do we stay within limits around the exchanger?", "label": "environmental"}
+{"text": "quick one, what makes unit HX-35 go wrong?", "label": "troubleshooting"}
+{"text": "sry, what are the raw numbers on the PRV-77?", "label": "specifications"}
+{"text": "what protects us if he TK-900 goes out of range?", "label": "safety"}
+{"text": "how frequently do we touch the relef valve?", "label": "maintenance_schedule"}
+{"text": "what tells us what the control valve is doing?", "label": "instrumentation"}
+{"text": "quick one, steps to bring the AC-110 down safely?", "label": "startup_shutdown"}
+{"text": "uh how long before the compressor needs a top-up?", "label": "lubrication"}
+{"text": "uh what are the raw numbers on the storge tank?", "label": "specifications"}
+{"text": "uh how is the TK-900 monitored and signalled?", "label": "instrumentation"}
+{"text": "what's the service cadence for the pump?", "label": "maintenance_schedule"}
+{"text": "quick one, which grade keeps the centrifugal pump running smooth?", "label": "lubrication"}
+{"text": "how long before pump CP-200 needs a top-up?", "label": "lubrication"}
+{"text": "ok so how do i keep valve PRV-77 from becoming a hazard?", "label": "safety"}
+{"text": "steps to bring the compressor down safely?", "label": "startup_shutdown"}
+{"text": "how fequently do we touch compressor AC-110?", "label": "maintenance_schedule"}
+{"text": "what's the service cadence for the CP-200?", "label": "maintenance_schedule"}
+{"text": "sry, the nuts and bolts of the CP-200?", "label": "specifications"}
+{"text": "uh the nuts and bolts of pump CP-200?", "label": "specifications"}
+{"text": "what's the service cadence for valve PRV-77?", "label": "maintenance_schedule"}
+{"text": "how far can i run the compressor before it's too much?", "label": "operating_limits"}
+{"text": "hey steps tobring pump CP-200 down safely?", "label": "startup_shutdown"}
+{"text": "uh when does compressor AC-110 hit its ceiling?", "label": "operating_limits"}
+{"text": "ok so how long before the centrifugal pump needs a top-up?", "label": "lubrication"}
+{"text": "sry, what makes the CP-200 go wrong?", "label": "troubleshooting"}
+{"text": "ok so what protects us i the relief valve goes out of range?", "label": "safety"}
+{"text": "something's off with the control valve, what could it be?", "label": "troubleshooting"}
+{"text": "quick one, how do e stay within limits around unit HX-305?", "label": "environmental"}

@@ -1,0 +1,625 @@
+{"instruction": "Which lubricant does the AC-110 use?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "Which lubricant does the air compressor use?", "input": "", "output": "The compressor oil type for screw air compressor AC-110 is synthetic PAO 46 compressor oil."}
+{"instruction": "Diagnose the cause of high discharge temperature for compressor AC-110.", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "State the maximum discharge air temperature for compressor AC-110.", "input": "", "output": "The maximum discharge air temperature for screw air compressor AC-110 is 105 C."}
+{"instruction": "What is the test interval of the relief valve?", "input": "", "output": "Every 12 months on a certified test bench \u2014 that is the test interval of pressure relief valve PRV-77."}
+{"instruction": "Tell me the motor rating for the AC-110.", "input": "", "output": "90 kW, 415 V, 3-phase \u2014 that is the motor rating of screw air compressor AC-110."}
+{"instruction": "Tell me the bearing oil grade of pump CP-200.", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "What is the maximum fluid temperature of pump CP-200?", "input": "", "output": "120 C \u2014 that is the maximum fluid temperature of centrifugal pump CP-200."}
+{"instruction": "What is the nominal capacity of the storage tank?", "input": "", "output": "For storage tank TK-900, the nominal capacity is 500 m3."}
+{"instruction": "Give the body material for the safety valve.", "input": "", "output": "The body material for pressure relief valve PRV-77 is forged carbon steel A105."}
+{"instruction": "What is the level measurement of tank TK-900?", "input": "", "output": "A guided-wave radar transmitter \u2014 that is the level measurement of storage tank TK-900."}
+{"instruction": "What is the overload setting of compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the overload setting is 165 A."}
+{"instruction": "When should the CP-200 get its bearing inspection?", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "What are the specs of unit HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the number of tubes is 420 tubes."}
+{"instruction": "What are the specs of pump CP-200?", "input": "", "output": "The impeller diameter for centrifugal pump CP-200 is 220 mm."}
+{"instruction": "State the maximum discharge air temperature for the air compressor.", "input": "", "output": "For screw air compressor AC-110, the maximum discharge air temperature is 105 C."}
+{"instruction": "What is the secondary containment for the storage tank?", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "What is the nitrogen blanket pressure of the TK-900?", "input": "", "output": "For storage tank TK-900, the nitrogen blanket pressure is maintained at 5 mbar to prevent ignition."}
+{"instruction": "What is the casing material of the centrifugal pump?", "input": "", "output": "For centrifugal pump CP-200, the casing material is cast steel ASTM A216 WCB."}
+{"instruction": "What is the oil separator change for the AC-110?", "input": "", "output": "Every 6000 operating hours \u2014 that is the oil separator change of screw air compressor AC-110."}
+{"instruction": "What should I do about set pressure on the relief valve?", "input": "", "output": "For pressure relief valve PRV-77, the set pressure is 18 bar."}
+{"instruction": "What is the cause of rising pressure drop on the HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of rising pressure drop is tube-side fouling or partial blockage."}
+{"instruction": "What is the shutdown step for the CP-200?", "input": "", "output": "The shutdown step for centrifugal pump CP-200 is close the discharge valve before stopping the motor."}
+{"instruction": "What could cause cause of valve hunting on the CV-42?", "input": "", "output": "For control valve CV-42, the cause of valve hunting is an over-tuned loop or worn packing."}
+{"instruction": "When should the compressor get its air filter replacement?", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "Give the orifice designation for the safety valve.", "input": "", "output": "The orifice designation for pressure relief valve PRV-77 is API 526 orifice 'J'."}
+{"instruction": "What are the specs of the tank?", "input": "", "output": "For storage tank TK-900, the nominal capacity is 500 m3."}
+{"instruction": "Tell me the motor rating for compressor AC-110.", "input": "", "output": "The motor rating for screw air compressor AC-110 is 90 kW, 415 V, 3-phase."}
+{"instruction": "What oil spec applies to the CP-200?", "input": "", "output": "ISO VG 68 mineral oil \u2014 that is the bearing oil grade of centrifugal pump CP-200."}
+{"instruction": "What is the level measurement of the tank?", "input": "", "output": "A guided-wave radar transmitter \u2014 that is the level measurement of storage tank TK-900."}
+{"instruction": "What is the tube bundle cleaning for the exchanger?", "input": "", "output": "Every 12 months or when pressure drop exceeds 0.5 bar \u2014 that is the tube bundle cleaning of shell-and-tube heat exchanger HX-305."}
+{"instruction": "Give the body material for the PRV-77.", "input": "", "output": "For pressure relief valve PRV-77, the body material is forged carbon steel A105."}
+{"instruction": "What is the cause of excessive vibration on the centrifugal pump?", "input": "", "output": "The cause of excessive vibration for centrifugal pump CP-200 is misalignment or a worn bearing."}
+{"instruction": "What is the maximum design pressure of the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design pressure is 25 bar on the tube side."}
+{"instruction": "What is the body material of the relief valve?", "input": "", "output": "For pressure relief valve PRV-77, the body material is forged carbon steel A105."}
+{"instruction": "What is the nominal capacity of the tank?", "input": "", "output": "For storage tank TK-900, the nominal capacity is 500 m3."}
+{"instruction": "Tell me the compressor oil type of the AC-110.", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "What is the action if leaking below set pressure of the relief valve?", "input": "", "output": "The action if leaking below set pressure for pressure relief valve PRV-77 is isolate and replace the valve immediately."}
+{"instruction": "State the maximum fluid temperature for pump CP-200.", "input": "", "output": "For centrifugal pump CP-200, the maximum fluid temperature is 120 C."}
+{"instruction": "Give the casing material for the CP-200.", "input": "", "output": "The casing material for centrifugal pump CP-200 is cast steel ASTM A216 WCB."}
+{"instruction": "What is the vapour control for the storage tank?", "input": "", "output": "The vapour control for storage tank TK-900 is connected to the vapour recovery unit."}
+{"instruction": "How high can the air compressor run before it exceeds its maximum working pressure?", "input": "", "output": "The maximum working pressure for screw air compressor AC-110 is 10 bar."}
+{"instruction": "How high can the centrifugal pump run before it exceeds its rated flow?", "input": "", "output": "200 m3/h at 2950 rpm \u2014 that is the rated flow of centrifugal pump CP-200."}
+{"instruction": "What is the impeller diameter of the CP-200?", "input": "", "output": "For centrifugal pump CP-200, the impeller diameter is 220 mm."}
+{"instruction": "What should I do about nitrogen blanket pressure on the storage tank?", "input": "", "output": "The nitrogen blanket pressure for storage tank TK-900 is maintained at 5 mbar to prevent ignition."}
+{"instruction": "What could cause cause of rising pressure drop on unit HX-305?", "input": "", "output": "Tube-side fouling or partial blockage \u2014 that is the cause of rising pressure drop of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What is the maximum discharge pressure of pump CP-200?", "input": "", "output": "The maximum discharge pressure for centrifugal pump CP-200 is 16 bar."}
+{"instruction": "What is the correct shutdown procedure for compressor AC-110?", "input": "", "output": "The start condition for screw air compressor AC-110 is oil temperature must be above 10 C before loading."}
+{"instruction": "Give the maintenance interval for compressor AC-110.", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "What is the start condition for the compressor?", "input": "", "output": "For screw air compressor AC-110, the start condition is oil temperature must be above 10 C before loading."}
+{"instruction": "List the shutdown step of pump CP-200.", "input": "", "output": "Close the discharge valve before stopping the motor \u2014 that is the shutdown step of centrifugal pump CP-200."}
+{"instruction": "What is the cause of high discharge temperature on the air compressor?", "input": "", "output": "For screw air compressor AC-110, the cause of high discharge temperature is low oil level or a clogged oil cooler."}
+{"instruction": "What could cause cause of frequent load/unload cycling on compressor AC-110?", "input": "", "output": "The cause of frequent load/unload cycling for screw air compressor AC-110 is an undersized air receiver or a system leak."}
+{"instruction": "Give the maintenance interval for the centrifugal pump.", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "What should I do about action if leaking below set pressure on the relief valve?", "input": "", "output": "For pressure relief valve PRV-77, the action if leaking below set pressure is isolate and replace the valve immediately."}
+{"instruction": "Tell me the oil change interval of the centrifugal pump.", "input": "", "output": "For centrifugal pump CP-200, the oil change interval is every 4000 operating hours or 6 months."}
+{"instruction": "Give the shell material for the storage tank.", "input": "", "output": "Carbon steel A36 \u2014 that is the shell material of storage tank TK-900."}
+{"instruction": "What is the set pressure of the safety valve?", "input": "", "output": "18 bar \u2014 that is the set pressure of pressure relief valve PRV-77."}
+{"instruction": "Diagnose the cause of high discharge temperature for the compressor.", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "Diagnose the cause of rising pressure drop for unit HX-305.", "input": "", "output": "The cause of rising pressure drop for shell-and-tube heat exchanger HX-305 is tube-side fouling or partial blockage."}
+{"instruction": "What is the compressor oil type for the compressor?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "How often is tube bundle cleaning required for the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube bundle cleaning is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "What is the correct shutdown procedure for the pump?", "input": "", "output": "For centrifugal pump CP-200, the pre-start check is confirm suction valve is open and casing is primed."}
+{"instruction": "What is the shell material of tank TK-900?", "input": "", "output": "Carbon steel A36 \u2014 that is the shell material of storage tank TK-900."}
+{"instruction": "How often is mechanical seal replacement required for the pump?", "input": "", "output": "Every 8000 operating hours \u2014 that is the mechanical seal replacement of centrifugal pump CP-200."}
+{"instruction": "State the maximum working pressure for compressor AC-110.", "input": "", "output": "10 bar \u2014 that is the maximum working pressure of screw air compressor AC-110."}
+{"instruction": "What is the level measurement of the storage tank?", "input": "", "output": "The level measurement for storage tank TK-900 is a guided-wave radar transmitter."}
+{"instruction": "Give the number of tubes for the heat exchanger.", "input": "", "output": "The number of tubes for shell-and-tube heat exchanger HX-305 is 420 tubes."}
+{"instruction": "What is the oil filter replacement for the AC-110?", "input": "", "output": "For screw air compressor AC-110, the oil filter replacement is every 4000 operating hours."}
+{"instruction": "State the secondary containment of the TK-900.", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "Give the impeller diameter for the CP-200.", "input": "", "output": "220 mm \u2014 that is the impeller diameter of centrifugal pump CP-200."}
+{"instruction": "When should compressor AC-110 get its oil filter replacement?", "input": "", "output": "Every 4000 operating hours \u2014 that is the oil filter replacement of screw air compressor AC-110."}
+{"instruction": "What are the specs of the HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the number of tubes is 420 tubes."}
+{"instruction": "When should the relief valve get its overhaul interval?", "input": "", "output": "For pressure relief valve PRV-77, the overhaul interval is every 24 months."}
+{"instruction": "When should compressor AC-110 get its air filter replacement?", "input": "", "output": "For screw air compressor AC-110, the air filter replacement is every 2000 operating hours."}
+{"instruction": "What are the specs of the centrifugal pump?", "input": "", "output": "220 mm \u2014 that is the impeller diameter of centrifugal pump CP-200."}
+{"instruction": "What is the correct shutdown procedure for pump CP-200?", "input": "", "output": "For centrifugal pump CP-200, the pre-start check is confirm suction valve is open and casing is primed."}
+{"instruction": "What is the maximum discharge air temperature of the air compressor?", "input": "", "output": "For screw air compressor AC-110, the maximum discharge air temperature is 105 C."}
+{"instruction": "When should the compressor get its oil filter replacement?", "input": "", "output": "The oil filter replacement for screw air compressor AC-110 is every 4000 operating hours."}
+{"instruction": "What is the maximum fill level of the tank?", "input": "", "output": "The maximum fill level for storage tank TK-900 is 90 percent of nominal capacity."}
+{"instruction": "What is the cooling water discharge limit for unit HX-305?", "input": "", "output": "Below 40 C to meet effluent norms \u2014 that is the cooling water discharge limit of shell-and-tube heat exchanger HX-305."}
+{"instruction": "State the maximum design pressure for the exchanger.", "input": "", "output": "The maximum design pressure for shell-and-tube heat exchanger HX-305 is 25 bar on the tube side."}
+{"instruction": "What is the maximum fill level of tank TK-900?", "input": "", "output": "90 percent of nominal capacity \u2014 that is the maximum fill level of storage tank TK-900."}
+{"instruction": "What are the specs of the PRV-77?", "input": "", "output": "API 526 orifice 'J' \u2014 that is the orifice designation of pressure relief valve PRV-77."}
+{"instruction": "State the cooling water discharge limit of unit HX-305.", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cooling water discharge limit is below 40 C to meet effluent norms."}
+{"instruction": "How high can compressor AC-110 run before it exceeds its maximum working pressure?", "input": "", "output": "For screw air compressor AC-110, the maximum working pressure is 10 bar."}
+{"instruction": "Give the maintenance interval for valve PRV-77.", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "How do I safely start the centrifugal pump?", "input": "", "output": "Confirm suction valve is open and casing is primed \u2014 that is the pre-start check of centrifugal pump CP-200."}
+{"instruction": "What is the start condition for the AC-110?", "input": "", "output": "The start condition for screw air compressor AC-110 is oil temperature must be above 10 C before loading."}
+{"instruction": "What is the electrical rating of the air compressor?", "input": "", "output": "The motor rating for screw air compressor AC-110 is 90 kW, 415 V, 3-phase."}
+{"instruction": "What is the tube material of unit HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube material is stainless steel SS316L."}
+{"instruction": "What is the positioner calibration for the CV-42?", "input": "", "output": "For control valve CV-42, the positioner calibration is every 12 months."}
+{"instruction": "What is the start condition for compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the start condition is oil temperature must be above 10 C before loading."}
+{"instruction": "List the pre-start check of the CP-200.", "input": "", "output": "The pre-start check for centrifugal pump CP-200 is confirm suction valve is open and casing is primed."}
+{"instruction": "What is the maximum discharge air temperature of compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the maximum discharge air temperature is 105 C."}
+{"instruction": "What is the pre-start check for the CP-200?", "input": "", "output": "Confirm suction valve is open and casing is primed \u2014 that is the pre-start check of centrifugal pump CP-200."}
+{"instruction": "Why is the compressor having trouble?", "input": "", "output": "Low oil level or a clogged oil cooler \u2014 that is the cause of high discharge temperature of screw air compressor AC-110."}
+{"instruction": "Tell me the oil level requirement of the CP-200.", "input": "", "output": "The oil level requirement for centrifugal pump CP-200 is between the MIN and MAX marks on the sight glass."}
+{"instruction": "What could cause cause of sticking on the CV-42?", "input": "", "output": "Contaminated instrument air or galling of the stem \u2014 that is the cause of sticking of control valve CV-42."}
+{"instruction": "Tell me the oil change interval of the pump.", "input": "", "output": "The oil change interval for centrifugal pump CP-200 is every 4000 operating hours or 6 months."}
+{"instruction": "What should I do about test interval on the PRV-77?", "input": "", "output": "Every 12 months on a certified test bench \u2014 that is the test interval of pressure relief valve PRV-77."}
+{"instruction": "What is the correct shutdown procedure for the CP-200?", "input": "", "output": "The pre-start check for centrifugal pump CP-200 is confirm suction valve is open and casing is primed."}
+{"instruction": "What oil spec applies to the centrifugal pump?", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "What is the nominal capacity of the TK-900?", "input": "", "output": "The nominal capacity for storage tank TK-900 is 500 m3."}
+{"instruction": "What are the operating limits of pump CP-200?", "input": "", "output": "The maximum discharge pressure for centrifugal pump CP-200 is 16 bar."}
+{"instruction": "State the maximum design pressure for unit HX-305.", "input": "", "output": "The maximum design pressure for shell-and-tube heat exchanger HX-305 is 25 bar on the tube side."}
+{"instruction": "What is the bearing inspection for the pump?", "input": "", "output": "The bearing inspection for centrifugal pump CP-200 is every 2000 operating hours."}
+{"instruction": "What are the specs of tank TK-900?", "input": "", "output": "The nominal capacity for storage tank TK-900 is 500 m3."}
+{"instruction": "What is the packing inspection for valve CV-42?", "input": "", "output": "The packing inspection for control valve CV-42 is every 6 months."}
+{"instruction": "When should the heat exchanger get its tube bundle cleaning?", "input": "", "output": "The tube bundle cleaning for shell-and-tube heat exchanger HX-305 is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "What is the air filter replacement for the AC-110?", "input": "", "output": "Every 2000 operating hours \u2014 that is the air filter replacement of screw air compressor AC-110."}
+{"instruction": "What is the packing inspection for the control valve?", "input": "", "output": "Every 6 months \u2014 that is the packing inspection of control valve CV-42."}
+{"instruction": "Give the maintenance interval for the safety valve.", "input": "", "output": "Every 24 months \u2014 that is the overhaul interval of pressure relief valve PRV-77."}
+{"instruction": "What should I do about maximum fill level on tank TK-900?", "input": "", "output": "90 percent of nominal capacity \u2014 that is the maximum fill level of storage tank TK-900."}
+{"instruction": "State the maximum fill level for the TK-900.", "input": "", "output": "For storage tank TK-900, the maximum fill level is 90 percent of nominal capacity."}
+{"instruction": "What could cause cause of cavitation on pump CP-200?", "input": "", "output": "Insufficient suction pressure or a blocked strainer \u2014 that is the cause of cavitation of centrifugal pump CP-200."}
+{"instruction": "What are the specs of the heat exchanger?", "input": "", "output": "420 tubes \u2014 that is the number of tubes of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What could cause cause of reduced heat transfer on the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of reduced heat transfer is fouling or scaling on the tube surfaces."}
+{"instruction": "When should the heat exchanger get its gasket replacement?", "input": "", "output": "The gasket replacement for shell-and-tube heat exchanger HX-305 is at every bundle removal."}
+{"instruction": "What environmental control applies to unit HX-305?", "input": "", "output": "The cooling water discharge limit for shell-and-tube heat exchanger HX-305 is below 40 C to meet effluent norms."}
+{"instruction": "What is the nominal capacity of tank TK-900?", "input": "", "output": "500 m3 \u2014 that is the nominal capacity of storage tank TK-900."}
+{"instruction": "Give the maintenance interval for the CP-200.", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "What is the gasket replacement for the heat exchanger?", "input": "", "output": "At every bundle removal \u2014 that is the gasket replacement of shell-and-tube heat exchanger HX-305."}
+{"instruction": "How often is bearing inspection required for the CP-200?", "input": "", "output": "The bearing inspection for centrifugal pump CP-200 is every 2000 operating hours."}
+{"instruction": "What is the overload setting of the compressor?", "input": "", "output": "The overload setting for screw air compressor AC-110 is 165 A."}
+{"instruction": "When should pump CP-200 get its mechanical seal replacement?", "input": "", "output": "The mechanical seal replacement for centrifugal pump CP-200 is every 8000 operating hours."}
+{"instruction": "Which lubricant does compressor AC-110 use?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "List the start condition of the air compressor.", "input": "", "output": "For screw air compressor AC-110, the start condition is oil temperature must be above 10 C before loading."}
+{"instruction": "What is the vapour control for the TK-900?", "input": "", "output": "The vapour control for storage tank TK-900 is connected to the vapour recovery unit."}
+{"instruction": "What is the cause of sticking on the control valve?", "input": "", "output": "For control valve CV-42, the cause of sticking is contaminated instrument air or galling of the stem."}
+{"instruction": "How high can the pump run before it exceeds its maximum fluid temperature?", "input": "", "output": "For centrifugal pump CP-200, the maximum fluid temperature is 120 C."}
+{"instruction": "What is the oil level requirement for the centrifugal pump?", "input": "", "output": "Between the MIN and MAX marks on the sight glass \u2014 that is the oil level requirement of centrifugal pump CP-200."}
+{"instruction": "What is the actuator air supply of valve CV-42?", "input": "", "output": "The actuator air supply for control valve CV-42 is a clean, dry instrument air supply at 1.4 bar."}
+{"instruction": "How often should the oil in the AC-110 be changed?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "What is the oil filter replacement for compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the oil filter replacement is every 4000 operating hours."}
+{"instruction": "Why is the air compressor having trouble?", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "What is the set pressure of the PRV-77?", "input": "", "output": "The set pressure for pressure relief valve PRV-77 is 18 bar."}
+{"instruction": "Give the maintenance interval for the exchanger.", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube bundle cleaning is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "What is the shutdown step for the centrifugal pump?", "input": "", "output": "Close the discharge valve before stopping the motor \u2014 that is the shutdown step of centrifugal pump CP-200."}
+{"instruction": "What is the nitrogen blanket pressure of the storage tank?", "input": "", "output": "Maintained at 5 mbar to prevent ignition \u2014 that is the nitrogen blanket pressure of storage tank TK-900."}
+{"instruction": "Diagnose the cause of frequent load/unload cycling for the AC-110.", "input": "", "output": "An undersized air receiver or a system leak \u2014 that is the cause of frequent load/unload cycling of screw air compressor AC-110."}
+{"instruction": "Give the number of tubes for the exchanger.", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the number of tubes is 420 tubes."}
+{"instruction": "What is the body material of the PRV-77?", "input": "", "output": "For pressure relief valve PRV-77, the body material is forged carbon steel A105."}
+{"instruction": "Give the casing material for pump CP-200.", "input": "", "output": "For centrifugal pump CP-200, the casing material is cast steel ASTM A216 WCB."}
+{"instruction": "State the rated flow for the CP-200.", "input": "", "output": "200 m3/h at 2950 rpm \u2014 that is the rated flow of centrifugal pump CP-200."}
+{"instruction": "What is the secondary containment for the TK-900?", "input": "", "output": "The secondary containment for storage tank TK-900 is a bund wall sized for 110 percent of tank volume."}
+{"instruction": "What is the positioner calibration for valve CV-42?", "input": "", "output": "Every 12 months \u2014 that is the positioner calibration of control valve CV-42."}
+{"instruction": "What is the compressor oil type for the air compressor?", "input": "", "output": "The compressor oil type for screw air compressor AC-110 is synthetic PAO 46 compressor oil."}
+{"instruction": "Give the orifice designation for valve PRV-77.", "input": "", "output": "The orifice designation for pressure relief valve PRV-77 is API 526 orifice 'J'."}
+{"instruction": "What is the tube bundle cleaning for the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube bundle cleaning is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "What should I do about test interval on the safety valve?", "input": "", "output": "The test interval for pressure relief valve PRV-77 is every 12 months on a certified test bench."}
+{"instruction": "What should I do about nitrogen blanket pressure on the TK-900?", "input": "", "output": "For storage tank TK-900, the nitrogen blanket pressure is maintained at 5 mbar to prevent ignition."}
+{"instruction": "How often is packing inspection required for the CV-42?", "input": "", "output": "For control valve CV-42, the packing inspection is every 6 months."}
+{"instruction": "Tell me the compressor oil type of the air compressor.", "input": "", "output": "Synthetic PAO 46 compressor oil \u2014 that is the compressor oil type of screw air compressor AC-110."}
+{"instruction": "What is the level measurement of the TK-900?", "input": "", "output": "A guided-wave radar transmitter \u2014 that is the level measurement of storage tank TK-900."}
+{"instruction": "What is the vapour control for tank TK-900?", "input": "", "output": "The vapour control for storage tank TK-900 is connected to the vapour recovery unit."}
+{"instruction": "What is the body material of valve PRV-77?", "input": "", "output": "For pressure relief valve PRV-77, the body material is forged carbon steel A105."}
+{"instruction": "Describe the control signal for the tank.", "input": "", "output": "The level measurement for storage tank TK-900 is a guided-wave radar transmitter."}
+{"instruction": "What could cause cause of excessive vibration on the pump?", "input": "", "output": "Misalignment or a worn bearing \u2014 that is the cause of excessive vibration of centrifugal pump CP-200."}
+{"instruction": "State the secondary containment of the storage tank.", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "How often is tube bundle cleaning required for the HX-305?", "input": "", "output": "The tube bundle cleaning for shell-and-tube heat exchanger HX-305 is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "What is the cause of cavitation on the centrifugal pump?", "input": "", "output": "For centrifugal pump CP-200, the cause of cavitation is insufficient suction pressure or a blocked strainer."}
+{"instruction": "What is the maximum design pressure of the HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design pressure is 25 bar on the tube side."}
+{"instruction": "How often is oil filter replacement required for compressor AC-110?", "input": "", "output": "Every 4000 operating hours \u2014 that is the oil filter replacement of screw air compressor AC-110."}
+{"instruction": "State the test interval for valve PRV-77.", "input": "", "output": "Every 12 months on a certified test bench \u2014 that is the test interval of pressure relief valve PRV-77."}
+{"instruction": "State the vapour control of the TK-900.", "input": "", "output": "The vapour control for storage tank TK-900 is connected to the vapour recovery unit."}
+{"instruction": "Give the maintenance interval for the AC-110.", "input": "", "output": "Every 2000 operating hours \u2014 that is the air filter replacement of screw air compressor AC-110."}
+{"instruction": "What is the set pressure of the relief valve?", "input": "", "output": "For pressure relief valve PRV-77, the set pressure is 18 bar."}
+{"instruction": "Why is unit HX-305 having trouble?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of reduced heat transfer is fouling or scaling on the tube surfaces."}
+{"instruction": "What is the bearing oil grade for pump CP-200?", "input": "", "output": "For centrifugal pump CP-200, the bearing oil grade is ISO VG 68 mineral oil."}
+{"instruction": "What safety limit governs tank TK-900?", "input": "", "output": "The maximum fill level for storage tank TK-900 is 90 percent of nominal capacity."}
+{"instruction": "Diagnose the cause of reduced heat transfer for the HX-305.", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "Give the tube material for the HX-305.", "input": "", "output": "Stainless steel SS316L \u2014 that is the tube material of shell-and-tube heat exchanger HX-305."}
+{"instruction": "State the rated capacity for the compressor.", "input": "", "output": "For screw air compressor AC-110, the rated capacity is 18 m3/min."}
+{"instruction": "How is the CV-42 instrumented?", "input": "", "output": "4-20 mA with HART \u2014 that is the signal type of control valve CV-42."}
+{"instruction": "How do I safely start pump CP-200?", "input": "", "output": "Confirm suction valve is open and casing is primed \u2014 that is the pre-start check of centrifugal pump CP-200."}
+{"instruction": "What should I do about test interval on valve PRV-77?", "input": "", "output": "Every 12 months on a certified test bench \u2014 that is the test interval of pressure relief valve PRV-77."}
+{"instruction": "State the maximum fill level for the storage tank.", "input": "", "output": "90 percent of nominal capacity \u2014 that is the maximum fill level of storage tank TK-900."}
+{"instruction": "What is the correct shutdown procedure for the AC-110?", "input": "", "output": "Oil temperature must be above 10 C before loading \u2014 that is the start condition of screw air compressor AC-110."}
+{"instruction": "What is the cause of sticking on the CV-42?", "input": "", "output": "Contaminated instrument air or galling of the stem \u2014 that is the cause of sticking of control valve CV-42."}
+{"instruction": "How high can the compressor run before it exceeds its rated capacity?", "input": "", "output": "The rated capacity for screw air compressor AC-110 is 18 m3/min."}
+{"instruction": "What is the tube material of the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube material is stainless steel SS316L."}
+{"instruction": "Give the casing material for the centrifugal pump.", "input": "", "output": "The casing material for centrifugal pump CP-200 is cast steel ASTM A216 WCB."}
+{"instruction": "Tell me the motor rating for the air compressor.", "input": "", "output": "For screw air compressor AC-110, the motor rating is 90 kW, 415 V, 3-phase."}
+{"instruction": "List the shutdown step of the centrifugal pump.", "input": "", "output": "The shutdown step for centrifugal pump CP-200 is close the discharge valve before stopping the motor."}
+{"instruction": "What should I do about action if leaking below set pressure on the safety valve?", "input": "", "output": "For pressure relief valve PRV-77, the action if leaking below set pressure is isolate and replace the valve immediately."}
+{"instruction": "Diagnose the cause of cavitation for the pump.", "input": "", "output": "For centrifugal pump CP-200, the cause of cavitation is insufficient suction pressure or a blocked strainer."}
+{"instruction": "What is the packing inspection for the CV-42?", "input": "", "output": "For control valve CV-42, the packing inspection is every 6 months."}
+{"instruction": "What are the specs of the pump?", "input": "", "output": "The impeller diameter for centrifugal pump CP-200 is 220 mm."}
+{"instruction": "How often is overhaul interval required for the relief valve?", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "Tell me the compressor oil type of the compressor.", "input": "", "output": "The compressor oil type for screw air compressor AC-110 is synthetic PAO 46 compressor oil."}
+{"instruction": "What is the cause of high discharge temperature on the compressor?", "input": "", "output": "Low oil level or a clogged oil cooler \u2014 that is the cause of high discharge temperature of screw air compressor AC-110."}
+{"instruction": "What is the gasket replacement for unit HX-305?", "input": "", "output": "At every bundle removal \u2014 that is the gasket replacement of shell-and-tube heat exchanger HX-305."}
+{"instruction": "When should unit HX-305 get its gasket replacement?", "input": "", "output": "At every bundle removal \u2014 that is the gasket replacement of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What is the shutdown step for the pump?", "input": "", "output": "Close the discharge valve before stopping the motor \u2014 that is the shutdown step of centrifugal pump CP-200."}
+{"instruction": "What is the cause of frequent load/unload cycling on compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the cause of frequent load/unload cycling is an undersized air receiver or a system leak."}
+{"instruction": "What should I do about maximum fill level on the storage tank?", "input": "", "output": "The maximum fill level for storage tank TK-900 is 90 percent of nominal capacity."}
+{"instruction": "What could cause cause of valve hunting on the control valve?", "input": "", "output": "An over-tuned loop or worn packing \u2014 that is the cause of valve hunting of control valve CV-42."}
+{"instruction": "What is the number of tubes of the HX-305?", "input": "", "output": "The number of tubes for shell-and-tube heat exchanger HX-305 is 420 tubes."}
+{"instruction": "Give the maintenance interval for the control valve.", "input": "", "output": "Every 12 months \u2014 that is the positioner calibration of control valve CV-42."}
+{"instruction": "When should the control valve get its positioner calibration?", "input": "", "output": "Every 12 months \u2014 that is the positioner calibration of control valve CV-42."}
+{"instruction": "When should the CP-200 get its mechanical seal replacement?", "input": "", "output": "The mechanical seal replacement for centrifugal pump CP-200 is every 8000 operating hours."}
+{"instruction": "What oil spec applies to pump CP-200?", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "What is the number of tubes of the exchanger?", "input": "", "output": "The number of tubes for shell-and-tube heat exchanger HX-305 is 420 tubes."}
+{"instruction": "State the maximum working pressure for the compressor.", "input": "", "output": "10 bar \u2014 that is the maximum working pressure of screw air compressor AC-110."}
+{"instruction": "What is the positioner calibration for the control valve?", "input": "", "output": "The positioner calibration for control valve CV-42 is every 12 months."}
+{"instruction": "What is the overhaul interval for valve PRV-77?", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "What are the operating limits of compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the maximum working pressure is 10 bar."}
+{"instruction": "What is the shutdown step for pump CP-200?", "input": "", "output": "The shutdown step for centrifugal pump CP-200 is close the discharge valve before stopping the motor."}
+{"instruction": "State the maximum design pressure for the HX-305.", "input": "", "output": "The maximum design pressure for shell-and-tube heat exchanger HX-305 is 25 bar on the tube side."}
+{"instruction": "What could cause cause of frequent load/unload cycling on the compressor?", "input": "", "output": "An undersized air receiver or a system leak \u2014 that is the cause of frequent load/unload cycling of screw air compressor AC-110."}
+{"instruction": "How high can the compressor run before it exceeds its maximum working pressure?", "input": "", "output": "For screw air compressor AC-110, the maximum working pressure is 10 bar."}
+{"instruction": "What is the overhaul interval for the safety valve?", "input": "", "output": "Every 24 months \u2014 that is the overhaul interval of pressure relief valve PRV-77."}
+{"instruction": "What is the cause of reduced heat transfer on the heat exchanger?", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "What oil spec applies to the air compressor?", "input": "", "output": "Synthetic PAO 46 compressor oil \u2014 that is the compressor oil type of screw air compressor AC-110."}
+{"instruction": "What is the maximum design pressure of the heat exchanger?", "input": "", "output": "25 bar on the tube side \u2014 that is the maximum design pressure of shell-and-tube heat exchanger HX-305."}
+{"instruction": "State the test interval for the safety valve.", "input": "", "output": "For pressure relief valve PRV-77, the test interval is every 12 months on a certified test bench."}
+{"instruction": "How high can the pump run before it exceeds its rated flow?", "input": "", "output": "For centrifugal pump CP-200, the rated flow is 200 m3/h at 2950 rpm."}
+{"instruction": "What is the actuator air supply of the CV-42?", "input": "", "output": "For control valve CV-42, the actuator air supply is a clean, dry instrument air supply at 1.4 bar."}
+{"instruction": "What could cause cause of frequent load/unload cycling on the air compressor?", "input": "", "output": "An undersized air receiver or a system leak \u2014 that is the cause of frequent load/unload cycling of screw air compressor AC-110."}
+{"instruction": "When should the exchanger get its tube bundle cleaning?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube bundle cleaning is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "What should I do about test interval on the relief valve?", "input": "", "output": "Every 12 months on a certified test bench \u2014 that is the test interval of pressure relief valve PRV-77."}
+{"instruction": "Tell me the overload setting for the compressor.", "input": "", "output": "The overload setting for screw air compressor AC-110 is 165 A."}
+{"instruction": "List the shutdown step of the AC-110.", "input": "", "output": "Allow a 3-minute unloaded run before full stop \u2014 that is the shutdown step of screw air compressor AC-110."}
+{"instruction": "How high can the heat exchanger run before it exceeds its maximum design pressure?", "input": "", "output": "25 bar on the tube side \u2014 that is the maximum design pressure of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What environmental control applies to the storage tank?", "input": "", "output": "The secondary containment for storage tank TK-900 is a bund wall sized for 110 percent of tank volume."}
+{"instruction": "What should I do about set pressure on the PRV-77?", "input": "", "output": "18 bar \u2014 that is the set pressure of pressure relief valve PRV-77."}
+{"instruction": "What safety limit governs valve PRV-77?", "input": "", "output": "For pressure relief valve PRV-77, the set pressure is 18 bar."}
+{"instruction": "What could cause cause of excessive vibration on the CP-200?", "input": "", "output": "For centrifugal pump CP-200, the cause of excessive vibration is misalignment or a worn bearing."}
+{"instruction": "What should I do about maximum fill level on the tank?", "input": "", "output": "90 percent of nominal capacity \u2014 that is the maximum fill level of storage tank TK-900."}
+{"instruction": "Why is compressor AC-110 having trouble?", "input": "", "output": "Low oil level or a clogged oil cooler \u2014 that is the cause of high discharge temperature of screw air compressor AC-110."}
+{"instruction": "What is the compressor oil type for compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "What could cause cause of high discharge temperature on the air compressor?", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "What could cause cause of rising pressure drop on the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of rising pressure drop is tube-side fouling or partial blockage."}
+{"instruction": "Why is the centrifugal pump having trouble?", "input": "", "output": "The cause of cavitation for centrifugal pump CP-200 is insufficient suction pressure or a blocked strainer."}
+{"instruction": "What is the bearing oil grade for the pump?", "input": "", "output": "For centrifugal pump CP-200, the bearing oil grade is ISO VG 68 mineral oil."}
+{"instruction": "What is the motor rating of compressor AC-110?", "input": "", "output": "The motor rating for screw air compressor AC-110 is 90 kW, 415 V, 3-phase."}
+{"instruction": "What is the oil separator change for the compressor?", "input": "", "output": "The oil separator change for screw air compressor AC-110 is every 6000 operating hours."}
+{"instruction": "Diagnose the cause of sticking for the control valve.", "input": "", "output": "The cause of sticking for control valve CV-42 is contaminated instrument air or galling of the stem."}
+{"instruction": "What should I do about action if leaking below set pressure on the PRV-77?", "input": "", "output": "The action if leaking below set pressure for pressure relief valve PRV-77 is isolate and replace the valve immediately."}
+{"instruction": "What oil spec applies to the AC-110?", "input": "", "output": "The compressor oil type for screw air compressor AC-110 is synthetic PAO 46 compressor oil."}
+{"instruction": "Tell me the oil separator change of compressor AC-110.", "input": "", "output": "For screw air compressor AC-110, the oil separator change is every 6000 operating hours."}
+{"instruction": "State the maximum discharge pressure for the centrifugal pump.", "input": "", "output": "For centrifugal pump CP-200, the maximum discharge pressure is 16 bar."}
+{"instruction": "How do I safely start compressor AC-110?", "input": "", "output": "Oil temperature must be above 10 C before loading \u2014 that is the start condition of screw air compressor AC-110."}
+{"instruction": "State the maximum design temperature for the HX-305.", "input": "", "output": "250 C \u2014 that is the maximum design temperature of shell-and-tube heat exchanger HX-305."}
+{"instruction": "Diagnose the cause of high discharge temperature for the AC-110.", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "Why is the AC-110 having trouble?", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "State the rated flow for pump CP-200.", "input": "", "output": "For centrifugal pump CP-200, the rated flow is 200 m3/h at 2950 rpm."}
+{"instruction": "What is the shutdown step for the AC-110?", "input": "", "output": "The shutdown step for screw air compressor AC-110 is allow a 3-minute unloaded run before full stop."}
+{"instruction": "What is the motor rating of the compressor?", "input": "", "output": "For screw air compressor AC-110, the motor rating is 90 kW, 415 V, 3-phase."}
+{"instruction": "What is the tube bundle cleaning for unit HX-305?", "input": "", "output": "The tube bundle cleaning for shell-and-tube heat exchanger HX-305 is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "State the set pressure for the PRV-77.", "input": "", "output": "18 bar \u2014 that is the set pressure of pressure relief valve PRV-77."}
+{"instruction": "What is the actuator air supply for the CV-42?", "input": "", "output": "A clean, dry instrument air supply at 1.4 bar \u2014 that is the actuator air supply of control valve CV-42."}
+{"instruction": "What is the cause of reduced heat transfer on unit HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of reduced heat transfer is fouling or scaling on the tube surfaces."}
+{"instruction": "State the action if leaking below set pressure for the PRV-77.", "input": "", "output": "Isolate and replace the valve immediately \u2014 that is the action if leaking below set pressure of pressure relief valve PRV-77."}
+{"instruction": "What is the level measurement for the TK-900?", "input": "", "output": "A guided-wave radar transmitter \u2014 that is the level measurement of storage tank TK-900."}
+{"instruction": "Tell me the oil separator change of the air compressor.", "input": "", "output": "Every 6000 operating hours \u2014 that is the oil separator change of screw air compressor AC-110."}
+{"instruction": "Which lubricant does pump CP-200 use?", "input": "", "output": "For centrifugal pump CP-200, the bearing oil grade is ISO VG 68 mineral oil."}
+{"instruction": "What is the overhaul interval for the PRV-77?", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "What are the specs of the storage tank?", "input": "", "output": "500 m3 \u2014 that is the nominal capacity of storage tank TK-900."}
+{"instruction": "Tell me the compressor oil type of compressor AC-110.", "input": "", "output": "Synthetic PAO 46 compressor oil \u2014 that is the compressor oil type of screw air compressor AC-110."}
+{"instruction": "What is the cause of sticking on valve CV-42?", "input": "", "output": "For control valve CV-42, the cause of sticking is contaminated instrument air or galling of the stem."}
+{"instruction": "State the secondary containment of tank TK-900.", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "What is the maximum working pressure of the AC-110?", "input": "", "output": "The maximum working pressure for screw air compressor AC-110 is 10 bar."}
+{"instruction": "Describe the control signal for the storage tank.", "input": "", "output": "For storage tank TK-900, the level measurement is a guided-wave radar transmitter."}
+{"instruction": "What is the set pressure of valve PRV-77?", "input": "", "output": "The set pressure for pressure relief valve PRV-77 is 18 bar."}
+{"instruction": "Give the maintenance interval for the relief valve.", "input": "", "output": "For pressure relief valve PRV-77, the overhaul interval is every 24 months."}
+{"instruction": "How often is oil filter replacement required for the air compressor?", "input": "", "output": "The oil filter replacement for screw air compressor AC-110 is every 4000 operating hours."}
+{"instruction": "What oil spec applies to the compressor?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "What is the oil level requirement for pump CP-200?", "input": "", "output": "Between the MIN and MAX marks on the sight glass \u2014 that is the oil level requirement of centrifugal pump CP-200."}
+{"instruction": "What is the rated capacity of compressor AC-110?", "input": "", "output": "18 m3/min \u2014 that is the rated capacity of screw air compressor AC-110."}
+{"instruction": "How high can the CP-200 run before it exceeds its maximum discharge pressure?", "input": "", "output": "For centrifugal pump CP-200, the maximum discharge pressure is 16 bar."}
+{"instruction": "What is the correct shutdown procedure for the centrifugal pump?", "input": "", "output": "For centrifugal pump CP-200, the pre-start check is confirm suction valve is open and casing is primed."}
+{"instruction": "State the maximum design temperature for unit HX-305.", "input": "", "output": "The maximum design temperature for shell-and-tube heat exchanger HX-305 is 250 C."}
+{"instruction": "What is the correct shutdown procedure for the air compressor?", "input": "", "output": "For screw air compressor AC-110, the start condition is oil temperature must be above 10 C before loading."}
+{"instruction": "What is the electrical rating of the AC-110?", "input": "", "output": "The motor rating for screw air compressor AC-110 is 90 kW, 415 V, 3-phase."}
+{"instruction": "What is the cause of rising pressure drop on the exchanger?", "input": "", "output": "Tube-side fouling or partial blockage \u2014 that is the cause of rising pressure drop of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What is the high-level alarm of the TK-900?", "input": "", "output": "For storage tank TK-900, the high-level alarm is trips at 95 percent to close the inlet valve."}
+{"instruction": "When should the pump get its mechanical seal replacement?", "input": "", "output": "For centrifugal pump CP-200, the mechanical seal replacement is every 8000 operating hours."}
+{"instruction": "State the maximum design temperature for the exchanger.", "input": "", "output": "The maximum design temperature for shell-and-tube heat exchanger HX-305 is 250 C."}
+{"instruction": "What is the cause of cavitation on the CP-200?", "input": "", "output": "Insufficient suction pressure or a blocked strainer \u2014 that is the cause of cavitation of centrifugal pump CP-200."}
+{"instruction": "What environmental control applies to the HX-305?", "input": "", "output": "Below 40 C to meet effluent norms \u2014 that is the cooling water discharge limit of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What could cause cause of high discharge temperature on the compressor?", "input": "", "output": "For screw air compressor AC-110, the cause of high discharge temperature is low oil level or a clogged oil cooler."}
+{"instruction": "What could cause cause of sticking on valve CV-42?", "input": "", "output": "The cause of sticking for control valve CV-42 is contaminated instrument air or galling of the stem."}
+{"instruction": "When should the CV-42 get its positioner calibration?", "input": "", "output": "The positioner calibration for control valve CV-42 is every 12 months."}
+{"instruction": "State the nitrogen blanket pressure for tank TK-900.", "input": "", "output": "For storage tank TK-900, the nitrogen blanket pressure is maintained at 5 mbar to prevent ignition."}
+{"instruction": "State the nitrogen blanket pressure for the tank.", "input": "", "output": "Maintained at 5 mbar to prevent ignition \u2014 that is the nitrogen blanket pressure of storage tank TK-900."}
+{"instruction": "How often is air filter replacement required for compressor AC-110?", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "What is the rated flow of the centrifugal pump?", "input": "", "output": "For centrifugal pump CP-200, the rated flow is 200 m3/h at 2950 rpm."}
+{"instruction": "What is the maximum working pressure of the air compressor?", "input": "", "output": "For screw air compressor AC-110, the maximum working pressure is 10 bar."}
+{"instruction": "What is the rated flow of the CP-200?", "input": "", "output": "200 m3/h at 2950 rpm \u2014 that is the rated flow of centrifugal pump CP-200."}
+{"instruction": "What is the actuator air supply for valve CV-42?", "input": "", "output": "The actuator air supply for control valve CV-42 is a clean, dry instrument air supply at 1.4 bar."}
+{"instruction": "When should pump CP-200 get its bearing inspection?", "input": "", "output": "Every 2000 operating hours \u2014 that is the bearing inspection of centrifugal pump CP-200."}
+{"instruction": "How often is mechanical seal replacement required for the CP-200?", "input": "", "output": "The mechanical seal replacement for centrifugal pump CP-200 is every 8000 operating hours."}
+{"instruction": "What is the cause of reduced heat transfer on the HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of reduced heat transfer is fouling or scaling on the tube surfaces."}
+{"instruction": "What is the test interval of the safety valve?", "input": "", "output": "Every 12 months on a certified test bench \u2014 that is the test interval of pressure relief valve PRV-77."}
+{"instruction": "What is the signal type of the CV-42?", "input": "", "output": "The signal type for control valve CV-42 is 4-20 mA with HART."}
+{"instruction": "List the pre-start check of pump CP-200.", "input": "", "output": "For centrifugal pump CP-200, the pre-start check is confirm suction valve is open and casing is primed."}
+{"instruction": "What should I do about set pressure on the safety valve?", "input": "", "output": "18 bar \u2014 that is the set pressure of pressure relief valve PRV-77."}
+{"instruction": "What safety limit governs the PRV-77?", "input": "", "output": "The set pressure for pressure relief valve PRV-77 is 18 bar."}
+{"instruction": "Describe the control signal for the TK-900.", "input": "", "output": "The level measurement for storage tank TK-900 is a guided-wave radar transmitter."}
+{"instruction": "How high can pump CP-200 run before it exceeds its maximum fluid temperature?", "input": "", "output": "The maximum fluid temperature for centrifugal pump CP-200 is 120 C."}
+{"instruction": "How is valve CV-42 instrumented?", "input": "", "output": "4-20 mA with HART \u2014 that is the signal type of control valve CV-42."}
+{"instruction": "What is the cooling water discharge limit for the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cooling water discharge limit is below 40 C to meet effluent norms."}
+{"instruction": "State the secondary containment of the tank.", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "State the rated flow for the centrifugal pump.", "input": "", "output": "For centrifugal pump CP-200, the rated flow is 200 m3/h at 2950 rpm."}
+{"instruction": "What is the maximum discharge air temperature of the AC-110?", "input": "", "output": "For screw air compressor AC-110, the maximum discharge air temperature is 105 C."}
+{"instruction": "State the maximum fill level for the tank.", "input": "", "output": "The maximum fill level for storage tank TK-900 is 90 percent of nominal capacity."}
+{"instruction": "State the rated capacity for compressor AC-110.", "input": "", "output": "The rated capacity for screw air compressor AC-110 is 18 m3/min."}
+{"instruction": "How high can the air compressor run before it exceeds its maximum discharge air temperature?", "input": "", "output": "105 C \u2014 that is the maximum discharge air temperature of screw air compressor AC-110."}
+{"instruction": "What is the oil filter replacement for the compressor?", "input": "", "output": "For screw air compressor AC-110, the oil filter replacement is every 4000 operating hours."}
+{"instruction": "What could cause cause of high discharge temperature on compressor AC-110?", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "What is the cause of excessive vibration on the CP-200?", "input": "", "output": "For centrifugal pump CP-200, the cause of excessive vibration is misalignment or a worn bearing."}
+{"instruction": "Describe the control signal for valve CV-42.", "input": "", "output": "For control valve CV-42, the signal type is 4-20 mA with HART."}
+{"instruction": "How often is overhaul interval required for valve PRV-77?", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "State the maximum discharge pressure for the pump.", "input": "", "output": "16 bar \u2014 that is the maximum discharge pressure of centrifugal pump CP-200."}
+{"instruction": "What is the action if leaking below set pressure of valve PRV-77?", "input": "", "output": "The action if leaking below set pressure for pressure relief valve PRV-77 is isolate and replace the valve immediately."}
+{"instruction": "When should the air compressor get its air filter replacement?", "input": "", "output": "For screw air compressor AC-110, the air filter replacement is every 2000 operating hours."}
+{"instruction": "What is the nitrogen blanket pressure of tank TK-900?", "input": "", "output": "Maintained at 5 mbar to prevent ignition \u2014 that is the nitrogen blanket pressure of storage tank TK-900."}
+{"instruction": "How do I safely start the AC-110?", "input": "", "output": "For screw air compressor AC-110, the start condition is oil temperature must be above 10 C before loading."}
+{"instruction": "What environmental control applies to the TK-900?", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "Give the shell material for tank TK-900.", "input": "", "output": "Carbon steel A36 \u2014 that is the shell material of storage tank TK-900."}
+{"instruction": "What is the cause of frequent load/unload cycling on the air compressor?", "input": "", "output": "For screw air compressor AC-110, the cause of frequent load/unload cycling is an undersized air receiver or a system leak."}
+{"instruction": "Give the maintenance interval for pump CP-200.", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "What are the specs of the TK-900?", "input": "", "output": "500 m3 \u2014 that is the nominal capacity of storage tank TK-900."}
+{"instruction": "State the maximum design temperature for the heat exchanger.", "input": "", "output": "The maximum design temperature for shell-and-tube heat exchanger HX-305 is 250 C."}
+{"instruction": "How often is overhaul interval required for the PRV-77?", "input": "", "output": "For pressure relief valve PRV-77, the overhaul interval is every 24 months."}
+{"instruction": "How often should the oil in compressor AC-110 be changed?", "input": "", "output": "The compressor oil type for screw air compressor AC-110 is synthetic PAO 46 compressor oil."}
+{"instruction": "What could cause cause of rising pressure drop on the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of rising pressure drop is tube-side fouling or partial blockage."}
+{"instruction": "State the rated flow for the pump.", "input": "", "output": "The rated flow for centrifugal pump CP-200 is 200 m3/h at 2950 rpm."}
+{"instruction": "What is the rated flow of the pump?", "input": "", "output": "The rated flow for centrifugal pump CP-200 is 200 m3/h at 2950 rpm."}
+{"instruction": "What is the cause of high discharge temperature on compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the cause of high discharge temperature is low oil level or a clogged oil cooler."}
+{"instruction": "List the shutdown step of compressor AC-110.", "input": "", "output": "Allow a 3-minute unloaded run before full stop \u2014 that is the shutdown step of screw air compressor AC-110."}
+{"instruction": "When should valve CV-42 get its positioner calibration?", "input": "", "output": "For control valve CV-42, the positioner calibration is every 12 months."}
+{"instruction": "What are the specs of the safety valve?", "input": "", "output": "For pressure relief valve PRV-77, the orifice designation is API 526 orifice 'J'."}
+{"instruction": "List the pre-start check of the pump.", "input": "", "output": "For centrifugal pump CP-200, the pre-start check is confirm suction valve is open and casing is primed."}
+{"instruction": "Diagnose the cause of cavitation for the CP-200.", "input": "", "output": "Insufficient suction pressure or a blocked strainer \u2014 that is the cause of cavitation of centrifugal pump CP-200."}
+{"instruction": "What is the fail position of the CV-42?", "input": "", "output": "The fail position for control valve CV-42 is fail-closed on loss of air."}
+{"instruction": "What safety limit governs the storage tank?", "input": "", "output": "The maximum fill level for storage tank TK-900 is 90 percent of nominal capacity."}
+{"instruction": "What is the test interval of valve PRV-77?", "input": "", "output": "The test interval for pressure relief valve PRV-77 is every 12 months on a certified test bench."}
+{"instruction": "What are the operating limits of the air compressor?", "input": "", "output": "10 bar \u2014 that is the maximum working pressure of screw air compressor AC-110."}
+{"instruction": "What is the start condition for the air compressor?", "input": "", "output": "The start condition for screw air compressor AC-110 is oil temperature must be above 10 C before loading."}
+{"instruction": "What is the cause of cavitation on pump CP-200?", "input": "", "output": "Insufficient suction pressure or a blocked strainer \u2014 that is the cause of cavitation of centrifugal pump CP-200."}
+{"instruction": "What is the cause of valve hunting on valve CV-42?", "input": "", "output": "The cause of valve hunting for control valve CV-42 is an over-tuned loop or worn packing."}
+{"instruction": "What is the orifice designation of valve PRV-77?", "input": "", "output": "The orifice designation for pressure relief valve PRV-77 is API 526 orifice 'J'."}
+{"instruction": "What is the air filter replacement for compressor AC-110?", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "What is the high-level alarm for tank TK-900?", "input": "", "output": "The high-level alarm for storage tank TK-900 is trips at 95 percent to close the inlet valve."}
+{"instruction": "How often is air filter replacement required for the compressor?", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "What oil spec applies to compressor AC-110?", "input": "", "output": "Synthetic PAO 46 compressor oil \u2014 that is the compressor oil type of screw air compressor AC-110."}
+{"instruction": "When should valve CV-42 get its packing inspection?", "input": "", "output": "Every 6 months \u2014 that is the packing inspection of control valve CV-42."}
+{"instruction": "What is the overhaul interval for the relief valve?", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "What safety limit governs the relief valve?", "input": "", "output": "The set pressure for pressure relief valve PRV-77 is 18 bar."}
+{"instruction": "State the cooling water discharge limit of the HX-305.", "input": "", "output": "The cooling water discharge limit for shell-and-tube heat exchanger HX-305 is below 40 C to meet effluent norms."}
+{"instruction": "What could cause cause of cavitation on the CP-200?", "input": "", "output": "Insufficient suction pressure or a blocked strainer \u2014 that is the cause of cavitation of centrifugal pump CP-200."}
+{"instruction": "State the rated capacity for the air compressor.", "input": "", "output": "For screw air compressor AC-110, the rated capacity is 18 m3/min."}
+{"instruction": "What environmental control applies to tank TK-900?", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "When should the exchanger get its gasket replacement?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the gasket replacement is at every bundle removal."}
+{"instruction": "How often should the oil in the air compressor be changed?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "Give the nominal capacity for the storage tank.", "input": "", "output": "The nominal capacity for storage tank TK-900 is 500 m3."}
+{"instruction": "State the test interval for the PRV-77.", "input": "", "output": "For pressure relief valve PRV-77, the test interval is every 12 months on a certified test bench."}
+{"instruction": "State the test interval for the relief valve.", "input": "", "output": "For pressure relief valve PRV-77, the test interval is every 12 months on a certified test bench."}
+{"instruction": "What is the rated capacity of the compressor?", "input": "", "output": "The rated capacity for screw air compressor AC-110 is 18 m3/min."}
+{"instruction": "What is the orifice designation of the PRV-77?", "input": "", "output": "API 526 orifice 'J' \u2014 that is the orifice designation of pressure relief valve PRV-77."}
+{"instruction": "Tell me the oil change interval of the CP-200.", "input": "", "output": "Every 4000 operating hours or 6 months \u2014 that is the oil change interval of centrifugal pump CP-200."}
+{"instruction": "What is the cause of valve hunting on the CV-42?", "input": "", "output": "For control valve CV-42, the cause of valve hunting is an over-tuned loop or worn packing."}
+{"instruction": "Tell me the oil level requirement of the centrifugal pump.", "input": "", "output": "The oil level requirement for centrifugal pump CP-200 is between the MIN and MAX marks on the sight glass."}
+{"instruction": "Tell me the oil separator change of the compressor.", "input": "", "output": "Every 6000 operating hours \u2014 that is the oil separator change of screw air compressor AC-110."}
+{"instruction": "How high can the centrifugal pump run before it exceeds its maximum discharge pressure?", "input": "", "output": "For centrifugal pump CP-200, the maximum discharge pressure is 16 bar."}
+{"instruction": "How often is overhaul interval required for the safety valve?", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "How often should the oil in the centrifugal pump be changed?", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "What are the operating limits of the HX-305?", "input": "", "output": "The maximum design pressure for shell-and-tube heat exchanger HX-305 is 25 bar on the tube side."}
+{"instruction": "State the cooling water discharge limit of the exchanger.", "input": "", "output": "Below 40 C to meet effluent norms \u2014 that is the cooling water discharge limit of shell-and-tube heat exchanger HX-305."}
+{"instruction": "How high can the CP-200 run before it exceeds its rated flow?", "input": "", "output": "200 m3/h at 2950 rpm \u2014 that is the rated flow of centrifugal pump CP-200."}
+{"instruction": "When should the safety valve get its overhaul interval?", "input": "", "output": "The overhaul interval for pressure relief valve PRV-77 is every 24 months."}
+{"instruction": "State the maximum fill level for tank TK-900.", "input": "", "output": "90 percent of nominal capacity \u2014 that is the maximum fill level of storage tank TK-900."}
+{"instruction": "What is the mechanical seal replacement for the centrifugal pump?", "input": "", "output": "The mechanical seal replacement for centrifugal pump CP-200 is every 8000 operating hours."}
+{"instruction": "What should I do about maximum fill level on the TK-900?", "input": "", "output": "For storage tank TK-900, the maximum fill level is 90 percent of nominal capacity."}
+{"instruction": "Give the nominal capacity for the tank.", "input": "", "output": "For storage tank TK-900, the nominal capacity is 500 m3."}
+{"instruction": "How high can compressor AC-110 run before it exceeds its maximum discharge air temperature?", "input": "", "output": "The maximum discharge air temperature for screw air compressor AC-110 is 105 C."}
+{"instruction": "State the maximum discharge air temperature for the AC-110.", "input": "", "output": "105 C \u2014 that is the maximum discharge air temperature of screw air compressor AC-110."}
+{"instruction": "Which lubricant does the compressor use?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "What environmental control applies to the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cooling water discharge limit is below 40 C to meet effluent norms."}
+{"instruction": "Give the shell material for the tank.", "input": "", "output": "Carbon steel A36 \u2014 that is the shell material of storage tank TK-900."}
+{"instruction": "What is the mechanical seal replacement for the CP-200?", "input": "", "output": "The mechanical seal replacement for centrifugal pump CP-200 is every 8000 operating hours."}
+{"instruction": "What are the operating limits of unit HX-305?", "input": "", "output": "The maximum design pressure for shell-and-tube heat exchanger HX-305 is 25 bar on the tube side."}
+{"instruction": "State the set pressure for the safety valve.", "input": "", "output": "For pressure relief valve PRV-77, the set pressure is 18 bar."}
+{"instruction": "Why is pump CP-200 having trouble?", "input": "", "output": "Insufficient suction pressure or a blocked strainer \u2014 that is the cause of cavitation of centrifugal pump CP-200."}
+{"instruction": "What is the mechanical seal replacement for the pump?", "input": "", "output": "For centrifugal pump CP-200, the mechanical seal replacement is every 8000 operating hours."}
+{"instruction": "What is the fail position of the control valve?", "input": "", "output": "For control valve CV-42, the fail position is fail-closed on loss of air."}
+{"instruction": "What is the high-level alarm of tank TK-900?", "input": "", "output": "Trips at 95 percent to close the inlet valve \u2014 that is the high-level alarm of storage tank TK-900."}
+{"instruction": "Tell me the oil change interval of pump CP-200.", "input": "", "output": "The oil change interval for centrifugal pump CP-200 is every 4000 operating hours or 6 months."}
+{"instruction": "How high can compressor AC-110 run before it exceeds its rated capacity?", "input": "", "output": "18 m3/min \u2014 that is the rated capacity of screw air compressor AC-110."}
+{"instruction": "State the maximum design pressure for the heat exchanger.", "input": "", "output": "The maximum design pressure for shell-and-tube heat exchanger HX-305 is 25 bar on the tube side."}
+{"instruction": "State the maximum fluid temperature for the pump.", "input": "", "output": "120 C \u2014 that is the maximum fluid temperature of centrifugal pump CP-200."}
+{"instruction": "How do I safely start the air compressor?", "input": "", "output": "Oil temperature must be above 10 C before loading \u2014 that is the start condition of screw air compressor AC-110."}
+{"instruction": "State the maximum working pressure for the air compressor.", "input": "", "output": "The maximum working pressure for screw air compressor AC-110 is 10 bar."}
+{"instruction": "What is the shell material of the TK-900?", "input": "", "output": "For storage tank TK-900, the shell material is carbon steel A36."}
+{"instruction": "Which lubricant does the pump use?", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "What is the impeller diameter of pump CP-200?", "input": "", "output": "The impeller diameter for centrifugal pump CP-200 is 220 mm."}
+{"instruction": "When should the HX-305 get its tube bundle cleaning?", "input": "", "output": "Every 12 months or when pressure drop exceeds 0.5 bar \u2014 that is the tube bundle cleaning of shell-and-tube heat exchanger HX-305."}
+{"instruction": "Give the tube material for unit HX-305.", "input": "", "output": "The tube material for shell-and-tube heat exchanger HX-305 is stainless steel SS316L."}
+{"instruction": "Tell me the oil level requirement of the pump.", "input": "", "output": "The oil level requirement for centrifugal pump CP-200 is between the MIN and MAX marks on the sight glass."}
+{"instruction": "What is the bearing inspection for the centrifugal pump?", "input": "", "output": "Every 2000 operating hours \u2014 that is the bearing inspection of centrifugal pump CP-200."}
+{"instruction": "Diagnose the cause of excessive vibration for the pump.", "input": "", "output": "Misalignment or a worn bearing \u2014 that is the cause of excessive vibration of centrifugal pump CP-200."}
+{"instruction": "What is the maximum design temperature of unit HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design temperature is 250 C."}
+{"instruction": "What could cause cause of reduced heat transfer on the HX-305?", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "What is the fail position for the control valve?", "input": "", "output": "Fail-closed on loss of air \u2014 that is the fail position of control valve CV-42."}
+{"instruction": "What could cause cause of reduced heat transfer on the heat exchanger?", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "Give the maintenance interval for the air compressor.", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "How often is bearing inspection required for the pump?", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "What is the compressor oil type for the AC-110?", "input": "", "output": "For screw air compressor AC-110, the compressor oil type is synthetic PAO 46 compressor oil."}
+{"instruction": "List the shutdown step of the compressor.", "input": "", "output": "The shutdown step for screw air compressor AC-110 is allow a 3-minute unloaded run before full stop."}
+{"instruction": "Diagnose the cause of reduced heat transfer for unit HX-305.", "input": "", "output": "Fouling or scaling on the tube surfaces \u2014 that is the cause of reduced heat transfer of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What could cause cause of reduced heat transfer on unit HX-305?", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "How often is positioner calibration required for the CV-42?", "input": "", "output": "For control valve CV-42, the positioner calibration is every 12 months."}
+{"instruction": "How high can the AC-110 run before it exceeds its maximum discharge air temperature?", "input": "", "output": "105 C \u2014 that is the maximum discharge air temperature of screw air compressor AC-110."}
+{"instruction": "State the maximum fluid temperature for the centrifugal pump.", "input": "", "output": "The maximum fluid temperature for centrifugal pump CP-200 is 120 C."}
+{"instruction": "Diagnose the cause of frequent load/unload cycling for compressor AC-110.", "input": "", "output": "An undersized air receiver or a system leak \u2014 that is the cause of frequent load/unload cycling of screw air compressor AC-110."}
+{"instruction": "What is the number of tubes of the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the number of tubes is 420 tubes."}
+{"instruction": "How often is bearing inspection required for the centrifugal pump?", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "Why is the CV-42 having trouble?", "input": "", "output": "For control valve CV-42, the cause of valve hunting is an over-tuned loop or worn packing."}
+{"instruction": "List the shutdown step of the pump.", "input": "", "output": "For centrifugal pump CP-200, the shutdown step is close the discharge valve before stopping the motor."}
+{"instruction": "How often should the oil in the compressor be changed?", "input": "", "output": "The compressor oil type for screw air compressor AC-110 is synthetic PAO 46 compressor oil."}
+{"instruction": "What is the casing material of the pump?", "input": "", "output": "For centrifugal pump CP-200, the casing material is cast steel ASTM A216 WCB."}
+{"instruction": "What is the maximum discharge pressure of the CP-200?", "input": "", "output": "16 bar \u2014 that is the maximum discharge pressure of centrifugal pump CP-200."}
+{"instruction": "Diagnose the cause of high discharge temperature for the air compressor.", "input": "", "output": "Low oil level or a clogged oil cooler \u2014 that is the cause of high discharge temperature of screw air compressor AC-110."}
+{"instruction": "State the nitrogen blanket pressure for the storage tank.", "input": "", "output": "The nitrogen blanket pressure for storage tank TK-900 is maintained at 5 mbar to prevent ignition."}
+{"instruction": "Describe the control signal for the control valve.", "input": "", "output": "For control valve CV-42, the signal type is 4-20 mA with HART."}
+{"instruction": "What is the cause of excessive vibration on the pump?", "input": "", "output": "The cause of excessive vibration for centrifugal pump CP-200 is misalignment or a worn bearing."}
+{"instruction": "What is the electrical rating of compressor AC-110?", "input": "", "output": "90 kW, 415 V, 3-phase \u2014 that is the motor rating of screw air compressor AC-110."}
+{"instruction": "What is the cause of frequent load/unload cycling on the compressor?", "input": "", "output": "For screw air compressor AC-110, the cause of frequent load/unload cycling is an undersized air receiver or a system leak."}
+{"instruction": "What is the oil change interval for the CP-200?", "input": "", "output": "The oil change interval for centrifugal pump CP-200 is every 4000 operating hours or 6 months."}
+{"instruction": "State the maximum fluid temperature for the CP-200.", "input": "", "output": "For centrifugal pump CP-200, the maximum fluid temperature is 120 C."}
+{"instruction": "What is the tube bundle cleaning for the HX-305?", "input": "", "output": "The tube bundle cleaning for shell-and-tube heat exchanger HX-305 is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "What could cause cause of cavitation on the pump?", "input": "", "output": "The cause of cavitation for centrifugal pump CP-200 is insufficient suction pressure or a blocked strainer."}
+{"instruction": "What is the motor rating of the air compressor?", "input": "", "output": "90 kW, 415 V, 3-phase \u2014 that is the motor rating of screw air compressor AC-110."}
+{"instruction": "How high can the exchanger run before it exceeds its maximum design pressure?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design pressure is 25 bar on the tube side."}
+{"instruction": "State the set pressure for the relief valve.", "input": "", "output": "The set pressure for pressure relief valve PRV-77 is 18 bar."}
+{"instruction": "Diagnose the cause of frequent load/unload cycling for the compressor.", "input": "", "output": "An undersized air receiver or a system leak \u2014 that is the cause of frequent load/unload cycling of screw air compressor AC-110."}
+{"instruction": "What is the maximum design temperature of the HX-305?", "input": "", "output": "The maximum design temperature for shell-and-tube heat exchanger HX-305 is 250 C."}
+{"instruction": "How often is oil filter replacement required for the AC-110?", "input": "", "output": "For screw air compressor AC-110, the oil filter replacement is every 4000 operating hours."}
+{"instruction": "What are the specs of the CP-200?", "input": "", "output": "The impeller diameter for centrifugal pump CP-200 is 220 mm."}
+{"instruction": "What are the specs of valve PRV-77?", "input": "", "output": "For pressure relief valve PRV-77, the orifice designation is API 526 orifice 'J'."}
+{"instruction": "What safety limit governs the safety valve?", "input": "", "output": "The set pressure for pressure relief valve PRV-77 is 18 bar."}
+{"instruction": "When should the PRV-77 get its overhaul interval?", "input": "", "output": "For pressure relief valve PRV-77, the overhaul interval is every 24 months."}
+{"instruction": "Give the maintenance interval for the CV-42.", "input": "", "output": "Every 12 months \u2014 that is the positioner calibration of control valve CV-42."}
+{"instruction": "What is the oil change interval for the centrifugal pump?", "input": "", "output": "Every 4000 operating hours or 6 months \u2014 that is the oil change interval of centrifugal pump CP-200."}
+{"instruction": "What is the maximum design temperature of the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design temperature is 250 C."}
+{"instruction": "How do I safely start the compressor?", "input": "", "output": "Oil temperature must be above 10 C before loading \u2014 that is the start condition of screw air compressor AC-110."}
+{"instruction": "State the action if leaking below set pressure for valve PRV-77.", "input": "", "output": "For pressure relief valve PRV-77, the action if leaking below set pressure is isolate and replace the valve immediately."}
+{"instruction": "How is the storage tank instrumented?", "input": "", "output": "For storage tank TK-900, the level measurement is a guided-wave radar transmitter."}
+{"instruction": "Diagnose the cause of rising pressure drop for the heat exchanger.", "input": "", "output": "Tube-side fouling or partial blockage \u2014 that is the cause of rising pressure drop of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What should I do about nitrogen blanket pressure on the tank?", "input": "", "output": "For storage tank TK-900, the nitrogen blanket pressure is maintained at 5 mbar to prevent ignition."}
+{"instruction": "How often is gasket replacement required for the HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the gasket replacement is at every bundle removal."}
+{"instruction": "What is the level measurement for tank TK-900?", "input": "", "output": "The level measurement for storage tank TK-900 is a guided-wave radar transmitter."}
+{"instruction": "What is the vapour control for the tank?", "input": "", "output": "Connected to the vapour recovery unit \u2014 that is the vapour control of storage tank TK-900."}
+{"instruction": "How often is mechanical seal replacement required for pump CP-200?", "input": "", "output": "Every 8000 operating hours \u2014 that is the mechanical seal replacement of centrifugal pump CP-200."}
+{"instruction": "What is the bearing inspection for pump CP-200?", "input": "", "output": "Every 2000 operating hours \u2014 that is the bearing inspection of centrifugal pump CP-200."}
+{"instruction": "Tell me the oil separator change of the AC-110.", "input": "", "output": "The oil separator change for screw air compressor AC-110 is every 6000 operating hours."}
+{"instruction": "State the action if leaking below set pressure for the safety valve.", "input": "", "output": "The action if leaking below set pressure for pressure relief valve PRV-77 is isolate and replace the valve immediately."}
+{"instruction": "Why is the heat exchanger having trouble?", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "What is the high-level alarm for the TK-900?", "input": "", "output": "Trips at 95 percent to close the inlet valve \u2014 that is the high-level alarm of storage tank TK-900."}
+{"instruction": "What could cause cause of excessive vibration on the centrifugal pump?", "input": "", "output": "Misalignment or a worn bearing \u2014 that is the cause of excessive vibration of centrifugal pump CP-200."}
+{"instruction": "Give the maintenance interval for the HX-305.", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube bundle cleaning is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "How often should the oil in pump CP-200 be changed?", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "How often is positioner calibration required for valve CV-42?", "input": "", "output": "Every 12 months \u2014 that is the positioner calibration of control valve CV-42."}
+{"instruction": "How is the control valve instrumented?", "input": "", "output": "For control valve CV-42, the signal type is 4-20 mA with HART."}
+{"instruction": "Why is the exchanger having trouble?", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "Diagnose the cause of rising pressure drop for the HX-305.", "input": "", "output": "The cause of rising pressure drop for shell-and-tube heat exchanger HX-305 is tube-side fouling or partial blockage."}
+{"instruction": "How high can the AC-110 run before it exceeds its maximum working pressure?", "input": "", "output": "The maximum working pressure for screw air compressor AC-110 is 10 bar."}
+{"instruction": "Diagnose the cause of valve hunting for the control valve.", "input": "", "output": "The cause of valve hunting for control valve CV-42 is an over-tuned loop or worn packing."}
+{"instruction": "How high can unit HX-305 run before it exceeds its maximum design pressure?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design pressure is 25 bar on the tube side."}
+{"instruction": "Diagnose the cause of excessive vibration for the CP-200.", "input": "", "output": "For centrifugal pump CP-200, the cause of excessive vibration is misalignment or a worn bearing."}
+{"instruction": "What is the bearing oil grade for the centrifugal pump?", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "What is the shell material of the tank?", "input": "", "output": "The shell material for storage tank TK-900 is carbon steel A36."}
+{"instruction": "When should the HX-305 get its gasket replacement?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the gasket replacement is at every bundle removal."}
+{"instruction": "What is the rated capacity of the AC-110?", "input": "", "output": "The rated capacity for screw air compressor AC-110 is 18 m3/min."}
+{"instruction": "How is tank TK-900 instrumented?", "input": "", "output": "A guided-wave radar transmitter \u2014 that is the level measurement of storage tank TK-900."}
+{"instruction": "What is the cause of excessive vibration on pump CP-200?", "input": "", "output": "The cause of excessive vibration for centrifugal pump CP-200 is misalignment or a worn bearing."}
+{"instruction": "What is the body material of the safety valve?", "input": "", "output": "For pressure relief valve PRV-77, the body material is forged carbon steel A105."}
+{"instruction": "How high can the AC-110 run before it exceeds its rated capacity?", "input": "", "output": "18 m3/min \u2014 that is the rated capacity of screw air compressor AC-110."}
+{"instruction": "What is the maximum fluid temperature of the CP-200?", "input": "", "output": "For centrifugal pump CP-200, the maximum fluid temperature is 120 C."}
+{"instruction": "When should the CV-42 get its packing inspection?", "input": "", "output": "The packing inspection for control valve CV-42 is every 6 months."}
+{"instruction": "What is the maximum fluid temperature of the pump?", "input": "", "output": "The maximum fluid temperature for centrifugal pump CP-200 is 120 C."}
+{"instruction": "What are the operating limits of the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design pressure is 25 bar on the tube side."}
+{"instruction": "What is the rated capacity of the air compressor?", "input": "", "output": "The rated capacity for screw air compressor AC-110 is 18 m3/min."}
+{"instruction": "How high can the exchanger run before it exceeds its maximum design temperature?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design temperature is 250 C."}
+{"instruction": "How high can pump CP-200 run before it exceeds its maximum discharge pressure?", "input": "", "output": "16 bar \u2014 that is the maximum discharge pressure of centrifugal pump CP-200."}
+{"instruction": "Tell me the bearing oil grade of the pump.", "input": "", "output": "For centrifugal pump CP-200, the bearing oil grade is ISO VG 68 mineral oil."}
+{"instruction": "What should I do about set pressure on valve PRV-77?", "input": "", "output": "The set pressure for pressure relief valve PRV-77 is 18 bar."}
+{"instruction": "What is the gasket replacement for the exchanger?", "input": "", "output": "The gasket replacement for shell-and-tube heat exchanger HX-305 is at every bundle removal."}
+{"instruction": "What is the oil level requirement for the pump?", "input": "", "output": "The oil level requirement for centrifugal pump CP-200 is between the MIN and MAX marks on the sight glass."}
+{"instruction": "How often is gasket replacement required for the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the gasket replacement is at every bundle removal."}
+{"instruction": "Tell me the overload setting for the air compressor.", "input": "", "output": "The overload setting for screw air compressor AC-110 is 165 A."}
+{"instruction": "What is the maximum discharge pressure of the pump?", "input": "", "output": "16 bar \u2014 that is the maximum discharge pressure of centrifugal pump CP-200."}
+{"instruction": "Diagnose the cause of rising pressure drop for the exchanger.", "input": "", "output": "The cause of rising pressure drop for shell-and-tube heat exchanger HX-305 is tube-side fouling or partial blockage."}
+{"instruction": "Diagnose the cause of sticking for the CV-42.", "input": "", "output": "For control valve CV-42, the cause of sticking is contaminated instrument air or galling of the stem."}
+{"instruction": "What is the cooling water discharge limit for the HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cooling water discharge limit is below 40 C to meet effluent norms."}
+{"instruction": "What is the cause of valve hunting on the control valve?", "input": "", "output": "For control valve CV-42, the cause of valve hunting is an over-tuned loop or worn packing."}
+{"instruction": "How is the tank instrumented?", "input": "", "output": "The level measurement for storage tank TK-900 is a guided-wave radar transmitter."}
+{"instruction": "How often is packing inspection required for valve CV-42?", "input": "", "output": "For control valve CV-42, the packing inspection is every 6 months."}
+{"instruction": "What is the impeller diameter of the centrifugal pump?", "input": "", "output": "The impeller diameter for centrifugal pump CP-200 is 220 mm."}
+{"instruction": "How high can the HX-305 run before it exceeds its maximum design pressure?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design pressure is 25 bar on the tube side."}
+{"instruction": "What is the overload setting of the AC-110?", "input": "", "output": "For screw air compressor AC-110, the overload setting is 165 A."}
+{"instruction": "Diagnose the cause of frequent load/unload cycling for the air compressor.", "input": "", "output": "An undersized air receiver or a system leak \u2014 that is the cause of frequent load/unload cycling of screw air compressor AC-110."}
+{"instruction": "What is the cause of rising pressure drop on unit HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of rising pressure drop is tube-side fouling or partial blockage."}
+{"instruction": "What is the oil separator change for the air compressor?", "input": "", "output": "Every 6000 operating hours \u2014 that is the oil separator change of screw air compressor AC-110."}
+{"instruction": "What could cause cause of high discharge temperature on the AC-110?", "input": "", "output": "The cause of high discharge temperature for screw air compressor AC-110 is low oil level or a clogged oil cooler."}
+{"instruction": "What should I do about action if leaking below set pressure on valve PRV-77?", "input": "", "output": "Isolate and replace the valve immediately \u2014 that is the action if leaking below set pressure of pressure relief valve PRV-77."}
+{"instruction": "What environmental control applies to the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cooling water discharge limit is below 40 C to meet effluent norms."}
+{"instruction": "What is the cooling water discharge limit for the heat exchanger?", "input": "", "output": "The cooling water discharge limit for shell-and-tube heat exchanger HX-305 is below 40 C to meet effluent norms."}
+{"instruction": "What is the cause of rising pressure drop on the heat exchanger?", "input": "", "output": "Tube-side fouling or partial blockage \u2014 that is the cause of rising pressure drop of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What is the maximum fluid temperature of the centrifugal pump?", "input": "", "output": "For centrifugal pump CP-200, the maximum fluid temperature is 120 C."}
+{"instruction": "What is the cause of frequent load/unload cycling on the AC-110?", "input": "", "output": "An undersized air receiver or a system leak \u2014 that is the cause of frequent load/unload cycling of screw air compressor AC-110."}
+{"instruction": "How often is tube bundle cleaning required for the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the tube bundle cleaning is every 12 months or when pressure drop exceeds 0.5 bar."}
+{"instruction": "State the cooling water discharge limit of the heat exchanger.", "input": "", "output": "Below 40 C to meet effluent norms \u2014 that is the cooling water discharge limit of shell-and-tube heat exchanger HX-305."}
+{"instruction": "How often is bearing inspection required for pump CP-200?", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "Why is the control valve having trouble?", "input": "", "output": "For control valve CV-42, the cause of valve hunting is an over-tuned loop or worn packing."}
+{"instruction": "What is the signal type for valve CV-42?", "input": "", "output": "The signal type for control valve CV-42 is 4-20 mA with HART."}
+{"instruction": "When should the AC-110 get its oil filter replacement?", "input": "", "output": "Every 4000 operating hours \u2014 that is the oil filter replacement of screw air compressor AC-110."}
+{"instruction": "How high can the heat exchanger run before it exceeds its maximum design temperature?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the maximum design temperature is 250 C."}
+{"instruction": "How high can the CP-200 run before it exceeds its maximum fluid temperature?", "input": "", "output": "120 C \u2014 that is the maximum fluid temperature of centrifugal pump CP-200."}
+{"instruction": "What is the gasket replacement for the HX-305?", "input": "", "output": "At every bundle removal \u2014 that is the gasket replacement of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What is the pre-start check for the centrifugal pump?", "input": "", "output": "Confirm suction valve is open and casing is primed \u2014 that is the pre-start check of centrifugal pump CP-200."}
+{"instruction": "How often is oil filter replacement required for the compressor?", "input": "", "output": "Every 4000 operating hours \u2014 that is the oil filter replacement of screw air compressor AC-110."}
+{"instruction": "Tell me the overload setting for compressor AC-110.", "input": "", "output": "165 A \u2014 that is the overload setting of screw air compressor AC-110."}
+{"instruction": "When should the pump get its bearing inspection?", "input": "", "output": "For centrifugal pump CP-200, the bearing inspection is every 2000 operating hours."}
+{"instruction": "What is the actuator air supply for the control valve?", "input": "", "output": "The actuator air supply for control valve CV-42 is a clean, dry instrument air supply at 1.4 bar."}
+{"instruction": "Which lubricant does the CP-200 use?", "input": "", "output": "ISO VG 68 mineral oil \u2014 that is the bearing oil grade of centrifugal pump CP-200."}
+{"instruction": "Tell me the bearing oil grade of the CP-200.", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "How high can the HX-305 run before it exceeds its maximum design temperature?", "input": "", "output": "250 C \u2014 that is the maximum design temperature of shell-and-tube heat exchanger HX-305."}
+{"instruction": "What is the fail position for the CV-42?", "input": "", "output": "For control valve CV-42, the fail position is fail-closed on loss of air."}
+{"instruction": "What is the high-level alarm for the tank?", "input": "", "output": "The high-level alarm for storage tank TK-900 is trips at 95 percent to close the inlet valve."}
+{"instruction": "State the maximum discharge pressure for the CP-200.", "input": "", "output": "For centrifugal pump CP-200, the maximum discharge pressure is 16 bar."}
+{"instruction": "How often is packing inspection required for the control valve?", "input": "", "output": "For control valve CV-42, the packing inspection is every 6 months."}
+{"instruction": "What is the orifice designation of the relief valve?", "input": "", "output": "API 526 orifice 'J' \u2014 that is the orifice designation of pressure relief valve PRV-77."}
+{"instruction": "Give the body material for valve PRV-77.", "input": "", "output": "The body material for pressure relief valve PRV-77 is forged carbon steel A105."}
+{"instruction": "What is the mechanical seal replacement for pump CP-200?", "input": "", "output": "For centrifugal pump CP-200, the mechanical seal replacement is every 8000 operating hours."}
+{"instruction": "Give the nominal capacity for the TK-900.", "input": "", "output": "For storage tank TK-900, the nominal capacity is 500 m3."}
+{"instruction": "State the rated capacity for the AC-110.", "input": "", "output": "18 m3/min \u2014 that is the rated capacity of screw air compressor AC-110."}
+{"instruction": "List the start condition of compressor AC-110.", "input": "", "output": "Oil temperature must be above 10 C before loading \u2014 that is the start condition of screw air compressor AC-110."}
+{"instruction": "What is the impeller diameter of the pump?", "input": "", "output": "For centrifugal pump CP-200, the impeller diameter is 220 mm."}
+{"instruction": "What is the maximum discharge air temperature of the compressor?", "input": "", "output": "The maximum discharge air temperature for screw air compressor AC-110 is 105 C."}
+{"instruction": "State the maximum discharge pressure for pump CP-200.", "input": "", "output": "The maximum discharge pressure for centrifugal pump CP-200 is 16 bar."}
+{"instruction": "What is the maximum discharge pressure of the centrifugal pump?", "input": "", "output": "16 bar \u2014 that is the maximum discharge pressure of centrifugal pump CP-200."}
+{"instruction": "What is the bearing inspection for the CP-200?", "input": "", "output": "The bearing inspection for centrifugal pump CP-200 is every 2000 operating hours."}
+{"instruction": "Give the number of tubes for the HX-305.", "input": "", "output": "The number of tubes for shell-and-tube heat exchanger HX-305 is 420 tubes."}
+{"instruction": "What is the high-level alarm for the storage tank?", "input": "", "output": "The high-level alarm for storage tank TK-900 is trips at 95 percent to close the inlet valve."}
+{"instruction": "What is the actuator air supply of the control valve?", "input": "", "output": "For control valve CV-42, the actuator air supply is a clean, dry instrument air supply at 1.4 bar."}
+{"instruction": "What are the specs of the exchanger?", "input": "", "output": "The number of tubes for shell-and-tube heat exchanger HX-305 is 420 tubes."}
+{"instruction": "What should I do about nitrogen blanket pressure on tank TK-900?", "input": "", "output": "Maintained at 5 mbar to prevent ignition \u2014 that is the nitrogen blanket pressure of storage tank TK-900."}
+{"instruction": "State the set pressure for valve PRV-77.", "input": "", "output": "18 bar \u2014 that is the set pressure of pressure relief valve PRV-77."}
+{"instruction": "How often is mechanical seal replacement required for the centrifugal pump?", "input": "", "output": "Every 8000 operating hours \u2014 that is the mechanical seal replacement of centrifugal pump CP-200."}
+{"instruction": "What is the shutdown step for the air compressor?", "input": "", "output": "The shutdown step for screw air compressor AC-110 is allow a 3-minute unloaded run before full stop."}
+{"instruction": "What is the signal type for the control valve?", "input": "", "output": "The signal type for control valve CV-42 is 4-20 mA with HART."}
+{"instruction": "What is the rated flow of pump CP-200?", "input": "", "output": "200 m3/h at 2950 rpm \u2014 that is the rated flow of centrifugal pump CP-200."}
+{"instruction": "What is the signal type for the CV-42?", "input": "", "output": "For control valve CV-42, the signal type is 4-20 mA with HART."}
+{"instruction": "What is the motor rating of the AC-110?", "input": "", "output": "90 kW, 415 V, 3-phase \u2014 that is the motor rating of screw air compressor AC-110."}
+{"instruction": "Diagnose the cause of valve hunting for the CV-42.", "input": "", "output": "For control valve CV-42, the cause of valve hunting is an over-tuned loop or worn packing."}
+{"instruction": "How do I safely start the pump?", "input": "", "output": "The pre-start check for centrifugal pump CP-200 is confirm suction valve is open and casing is primed."}
+{"instruction": "Give the nominal capacity for tank TK-900.", "input": "", "output": "500 m3 \u2014 that is the nominal capacity of storage tank TK-900."}
+{"instruction": "What could cause cause of sticking on the control valve?", "input": "", "output": "The cause of sticking for control valve CV-42 is contaminated instrument air or galling of the stem."}
+{"instruction": "What is the nitrogen blanket pressure of the tank?", "input": "", "output": "Maintained at 5 mbar to prevent ignition \u2014 that is the nitrogen blanket pressure of storage tank TK-900."}
+{"instruction": "What is the signal type of the control valve?", "input": "", "output": "The signal type for control valve CV-42 is 4-20 mA with HART."}
+{"instruction": "When should the centrifugal pump get its mechanical seal replacement?", "input": "", "output": "The mechanical seal replacement for centrifugal pump CP-200 is every 8000 operating hours."}
+{"instruction": "Give the maintenance interval for the compressor.", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "What is the oil level requirement for the CP-200?", "input": "", "output": "Between the MIN and MAX marks on the sight glass \u2014 that is the oil level requirement of centrifugal pump CP-200."}
+{"instruction": "What is the shutdown step for compressor AC-110?", "input": "", "output": "Allow a 3-minute unloaded run before full stop \u2014 that is the shutdown step of screw air compressor AC-110."}
+{"instruction": "When should the centrifugal pump get its bearing inspection?", "input": "", "output": "The bearing inspection for centrifugal pump CP-200 is every 2000 operating hours."}
+{"instruction": "Give the maintenance interval for the heat exchanger.", "input": "", "output": "Every 12 months or when pressure drop exceeds 0.5 bar \u2014 that is the tube bundle cleaning of shell-and-tube heat exchanger HX-305."}
+{"instruction": "How high can the pump run before it exceeds its maximum discharge pressure?", "input": "", "output": "For centrifugal pump CP-200, the maximum discharge pressure is 16 bar."}
+{"instruction": "What is the cause of reduced heat transfer on the exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the cause of reduced heat transfer is fouling or scaling on the tube surfaces."}
+{"instruction": "What could cause cause of excessive vibration on pump CP-200?", "input": "", "output": "The cause of excessive vibration for centrifugal pump CP-200 is misalignment or a worn bearing."}
+{"instruction": "State the nitrogen blanket pressure for the TK-900.", "input": "", "output": "Maintained at 5 mbar to prevent ignition \u2014 that is the nitrogen blanket pressure of storage tank TK-900."}
+{"instruction": "What oil spec applies to the pump?", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "Diagnose the cause of valve hunting for valve CV-42.", "input": "", "output": "For control valve CV-42, the cause of valve hunting is an over-tuned loop or worn packing."}
+{"instruction": "What is the secondary containment for the tank?", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "What is the level measurement for the tank?", "input": "", "output": "A guided-wave radar transmitter \u2014 that is the level measurement of storage tank TK-900."}
+{"instruction": "What environmental control applies to the tank?", "input": "", "output": "A bund wall sized for 110 percent of tank volume \u2014 that is the secondary containment of storage tank TK-900."}
+{"instruction": "Diagnose the cause of reduced heat transfer for the heat exchanger.", "input": "", "output": "The cause of reduced heat transfer for shell-and-tube heat exchanger HX-305 is fouling or scaling on the tube surfaces."}
+{"instruction": "When should valve PRV-77 get its overhaul interval?", "input": "", "output": "For pressure relief valve PRV-77, the overhaul interval is every 24 months."}
+{"instruction": "Tell me the bearing oil grade of the centrifugal pump.", "input": "", "output": "The bearing oil grade for centrifugal pump CP-200 is ISO VG 68 mineral oil."}
+{"instruction": "What safety limit governs the TK-900?", "input": "", "output": "The maximum fill level for storage tank TK-900 is 90 percent of nominal capacity."}
+{"instruction": "How high can the air compressor run before it exceeds its rated capacity?", "input": "", "output": "18 m3/min \u2014 that is the rated capacity of screw air compressor AC-110."}
+{"instruction": "How often is positioner calibration required for the control valve?", "input": "", "output": "The positioner calibration for control valve CV-42 is every 12 months."}
+{"instruction": "How is the TK-900 instrumented?", "input": "", "output": "A guided-wave radar transmitter \u2014 that is the level measurement of storage tank TK-900."}
+{"instruction": "What is the shell material of the storage tank?", "input": "", "output": "Carbon steel A36 \u2014 that is the shell material of storage tank TK-900."}
+{"instruction": "Why is the pump having trouble?", "input": "", "output": "The cause of cavitation for centrifugal pump CP-200 is insufficient suction pressure or a blocked strainer."}
+{"instruction": "Give the impeller diameter for pump CP-200.", "input": "", "output": "220 mm \u2014 that is the impeller diameter of centrifugal pump CP-200."}
+{"instruction": "Give the tube material for the heat exchanger.", "input": "", "output": "Stainless steel SS316L \u2014 that is the tube material of shell-and-tube heat exchanger HX-305."}
+{"instruction": "When should the AC-110 get its air filter replacement?", "input": "", "output": "The air filter replacement for screw air compressor AC-110 is every 2000 operating hours."}
+{"instruction": "When should the air compressor get its oil filter replacement?", "input": "", "output": "Every 4000 operating hours \u2014 that is the oil filter replacement of screw air compressor AC-110."}
+{"instruction": "What is the oil separator change for compressor AC-110?", "input": "", "output": "For screw air compressor AC-110, the oil separator change is every 6000 operating hours."}
+{"instruction": "How often should the oil in the pump be changed?", "input": "", "output": "ISO VG 68 mineral oil \u2014 that is the bearing oil grade of centrifugal pump CP-200."}
+{"instruction": "Give the body material for the relief valve.", "input": "", "output": "The body material for pressure relief valve PRV-77 is forged carbon steel A105."}
+{"instruction": "Give the casing material for the pump.", "input": "", "output": "Cast steel ASTM A216 WCB \u2014 that is the casing material of centrifugal pump CP-200."}
+{"instruction": "What is the maximum working pressure of the compressor?", "input": "", "output": "10 bar \u2014 that is the maximum working pressure of screw air compressor AC-110."}
+{"instruction": "Tell me the overload setting for the AC-110.", "input": "", "output": "165 A \u2014 that is the overload setting of screw air compressor AC-110."}
+{"instruction": "What is the overload setting of the air compressor?", "input": "", "output": "The overload setting for screw air compressor AC-110 is 165 A."}
+{"instruction": "What is the air filter replacement for the air compressor?", "input": "", "output": "Every 2000 operating hours \u2014 that is the air filter replacement of screw air compressor AC-110."}
+{"instruction": "How often is air filter replacement required for the AC-110?", "input": "", "output": "Every 2000 operating hours \u2014 that is the air filter replacement of screw air compressor AC-110."}
+{"instruction": "What is the number of tubes of unit HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the number of tubes is 420 tubes."}
+{"instruction": "What is the casing material of pump CP-200?", "input": "", "output": "For centrifugal pump CP-200, the casing material is cast steel ASTM A216 WCB."}
+{"instruction": "What is the tube material of the HX-305?", "input": "", "output": "The tube material for shell-and-tube heat exchanger HX-305 is stainless steel SS316L."}
+{"instruction": "State the maximum working pressure for the AC-110.", "input": "", "output": "The maximum working pressure for screw air compressor AC-110 is 10 bar."}
+{"instruction": "List the shutdown step of the CP-200.", "input": "", "output": "The shutdown step for centrifugal pump CP-200 is close the discharge valve before stopping the motor."}
+{"instruction": "What is the orifice designation of the safety valve?", "input": "", "output": "For pressure relief valve PRV-77, the orifice designation is API 526 orifice 'J'."}
+{"instruction": "List the pre-start check of the centrifugal pump.", "input": "", "output": "Confirm suction valve is open and casing is primed \u2014 that is the pre-start check of centrifugal pump CP-200."}
+{"instruction": "How often is gasket replacement required for unit HX-305?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the gasket replacement is at every bundle removal."}
+{"instruction": "What is the maximum fill level of the TK-900?", "input": "", "output": "For storage tank TK-900, the maximum fill level is 90 percent of nominal capacity."}
+{"instruction": "Give the shell material for the TK-900.", "input": "", "output": "For storage tank TK-900, the shell material is carbon steel A36."}
+{"instruction": "Give the orifice designation for the relief valve.", "input": "", "output": "API 526 orifice 'J' \u2014 that is the orifice designation of pressure relief valve PRV-77."}
+{"instruction": "Give the impeller diameter for the pump.", "input": "", "output": "The impeller diameter for centrifugal pump CP-200 is 220 mm."}
+{"instruction": "State the action if leaking below set pressure for the relief valve.", "input": "", "output": "The action if leaking below set pressure for pressure relief valve PRV-77 is isolate and replace the valve immediately."}
+{"instruction": "What are the operating limits of the centrifugal pump?", "input": "", "output": "For centrifugal pump CP-200, the maximum discharge pressure is 16 bar."}
+{"instruction": "What is the maximum fill level of the storage tank?", "input": "", "output": "90 percent of nominal capacity \u2014 that is the maximum fill level of storage tank TK-900."}
+{"instruction": "State the vapour control of the tank.", "input": "", "output": "The vapour control for storage tank TK-900 is connected to the vapour recovery unit."}
+{"instruction": "Which lubricant does the centrifugal pump use?", "input": "", "output": "ISO VG 68 mineral oil \u2014 that is the bearing oil grade of centrifugal pump CP-200."}
+{"instruction": "List the shutdown step of the air compressor.", "input": "", "output": "For screw air compressor AC-110, the shutdown step is allow a 3-minute unloaded run before full stop."}
+{"instruction": "How often is gasket replacement required for the heat exchanger?", "input": "", "output": "For shell-and-tube heat exchanger HX-305, the gasket replacement is at every bundle removal."}
+{"instruction": "Diagnose the cause of cavitation for pump CP-200.", "input": "", "output": "Insufficient suction pressure or a blocked strainer \u2014 that is the cause of cavitation of centrifugal pump CP-200."}
+{"instruction": "What are the operating limits of the compressor?", "input": "", "output": "10 bar \u2014 that is the maximum working pressure of screw air compressor AC-110."}
+{"instruction": "Diagnose the cause of sticking for valve CV-42.", "input": "", "output": "For control valve CV-42, the cause of sticking is contaminated instrument air or galling of the stem."}
+{"instruction": "What could cause cause of valve hunting on valve CV-42?", "input": "", "output": "The cause of valve hunting for control valve CV-42 is an over-tuned loop or worn packing."}
+{"instruction": "How high can unit HX-305 run before it exceeds its maximum design temperature?", "input": "", "output": "250 C \u2014 that is the maximum design temperature of shell-and-tube heat exchanger HX-305."}
